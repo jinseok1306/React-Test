@@ -11,6 +11,7 @@
     <None Remove="client_app\src\components\inputCart.tsx" />
     <None Remove="client_app\src\components\Menu.tsx" />
     <None Remove="client_app\src\components\otherCart.tsx" />
+    <None Remove="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleLineChart.tsx" />
     <None Remove="client_app\src\pages\Home.tsx" />
     <None Remove="client_app\src\pages\index.tsx" />
@@ -44,6 +45,7 @@
     <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleLineChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\ReduxTest.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Home.tsx" />
