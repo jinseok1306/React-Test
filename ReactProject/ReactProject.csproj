@@ -8,9 +8,11 @@
 
   <ItemGroup>
     <None Remove="client_app\src\components\Menu.tsx" />
-    <None Remove="client_app\src\pages\About.tsx" />
     <None Remove="client_app\src\pages\Home.tsx" />
     <None Remove="client_app\src\pages\index.tsx" />
+    <None Remove="client_app\src\pages\ReduxTest.tsx" />
+    <None Remove="client_app\src\pages\TeamWorkDetail.tsx" />
+    <None Remove="client_app\src\pages\TeamWorkList.tsx" />
     <None Remove="client_app\src\Root.tsx" />
     <None Remove="client_app\src\serviceWorker.tsx" />
   </ItemGroup>
@@ -27,9 +29,11 @@
 
   <ItemGroup>
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
-    <TypeScriptCompile Include="client_app\src\pages\About.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\ReduxTest.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Home.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\index.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\TeamWorkDetail.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\TeamWorkList.tsx" />
     <TypeScriptCompile Include="client_app\src\Root.tsx" />
     <TypeScriptCompile Include="client_app\src\serviceWorker.tsx" />
   </ItemGroup>
