@@ -7,12 +7,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="client_app\src\components\cart.tsx" />
+    <None Remove="client_app\src\components\inputCart.tsx" />
     <None Remove="client_app\src\components\Menu.tsx" />
+    <None Remove="client_app\src\components\otherCart.tsx" />
     <None Remove="client_app\src\pages\Home.tsx" />
     <None Remove="client_app\src\pages\index.tsx" />
     <None Remove="client_app\src\pages\ReduxTest.tsx" />
     <None Remove="client_app\src\pages\TeamWorkDetail.tsx" />
     <None Remove="client_app\src\pages\TeamWorkList.tsx" />
+    <None Remove="client_app\src\redux\cart\actions.tsx" />
+    <None Remove="client_app\src\redux\cart\reducer.tsx" />
+    <None Remove="client_app\src\redux\cart\types.tsx" />
+    <None Remove="client_app\src\redux\inputCart\actions.tsx" />
+    <None Remove="client_app\src\redux\inputCart\reducer.tsx" />
+    <None Remove="client_app\src\redux\inputCart\types.tsx" />
+    <None Remove="client_app\src\redux\rootReducer.tsx" />
+    <None Remove="client_app\src\redux\store.tsx" />
     <None Remove="client_app\src\Root.tsx" />
     <None Remove="client_app\src\serviceWorker.tsx" />
   </ItemGroup>
@@ -28,12 +39,23 @@
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="client_app\src\components\cart.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\ReduxTest.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Home.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\index.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\TeamWorkDetail.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\TeamWorkList.tsx" />
+    <TypeScriptCompile Include="client_app\src\redux\cart\actions.tsx" />
+    <TypeScriptCompile Include="client_app\src\redux\cart\reducer.tsx" />
+    <TypeScriptCompile Include="client_app\src\redux\cart\types.tsx" />
+    <TypeScriptCompile Include="client_app\src\redux\inputCart\actions.tsx" />
+    <TypeScriptCompile Include="client_app\src\redux\inputCart\reducer.tsx" />
+    <TypeScriptCompile Include="client_app\src\redux\inputCart\types.tsx" />
+    <TypeScriptCompile Include="client_app\src\redux\rootReducer.tsx" />
+    <TypeScriptCompile Include="client_app\src\redux\store.tsx" />
     <TypeScriptCompile Include="client_app\src\Root.tsx" />
     <TypeScriptCompile Include="client_app\src\serviceWorker.tsx" />
   </ItemGroup>
