@@ -15,6 +15,7 @@
     <None Remove="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleBarChart.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleLineChart.tsx" />
+    <None Remove="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
     <None Remove="client_app\src\pages\Home.tsx" />
     <None Remove="client_app\src\pages\index.tsx" />
     <None Remove="client_app\src\pages\ReduxTest.tsx" />
@@ -51,6 +52,7 @@
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleBarChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleLineChart.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\ReduxTest.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Home.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\index.tsx" />
