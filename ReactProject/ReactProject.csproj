@@ -22,7 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="client_app\src\features\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
