@@ -11,6 +11,7 @@
     <None Remove="client_app\src\components\inputCart.tsx" />
     <None Remove="client_app\src\components\Menu.tsx" />
     <None Remove="client_app\src\components\otherCart.tsx" />
+    <None Remove="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleBarChart.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleLineChart.tsx" />
@@ -46,6 +47,7 @@
     <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleBarChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleLineChart.tsx" />
