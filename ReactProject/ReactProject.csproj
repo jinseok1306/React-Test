@@ -10,7 +10,10 @@
     <None Remove="client_app\src\components\cart.tsx" />
     <None Remove="client_app\src\components\ComboBox.tsx" />
     <None Remove="client_app\src\components\inputCart.tsx" />
+    <None Remove="client_app\src\components\Inputs\CheckboxesTags.tsx" />
     <None Remove="client_app\src\components\Inputs\ContrySelect.tsx" />
+    <None Remove="client_app\src\components\Inputs\CustomizedHook.tsx" />
+    <None Remove="client_app\src\components\Inputs\Grouped.tsx" />
     <None Remove="client_app\src\components\Menu.tsx" />
     <None Remove="client_app\src\components\otherCart.tsx" />
     <None Remove="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
@@ -50,9 +53,12 @@
 
   <ItemGroup>
     <TypeScriptCompile Include="client_app\src\components\cart.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Inputs\CheckboxesTags.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Inputs\ComboBox.tsx" />
     <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Inputs\ContrySelect.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Inputs\CustomizedHook.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Inputs\Grouped.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
