@@ -11,3 +11,4 @@ export { default as SimpleScatterChart } from './Chart/SimpleScatterChart';
 export { default as PieChartWithCustomizedLabel } from './Chart/PieChartWithCustomizedLabel';
 export { default as SimpleRadarChart } from './Chart/SimpleRadarChart';
 export { default as InputPage } from './MUI/InputPage';
+export { default as ButtonPage } from './MUI/ButtonPage';

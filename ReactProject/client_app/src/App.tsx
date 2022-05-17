@@ -23,6 +23,7 @@ function App() {
                   <Route path="/Chart/PieChartWithCustomizedLabel" element={<Page.PieChartWithCustomizedLabel />} />
                   <Route path="/Chart/SimpleRadarChart" element={<Page.SimpleRadarChart />} />
                   <Route path="/MUI/InputPage" element={<Page.InputPage />} />
+                  <Route path="/MUI/ButtonPage" element={<Page.ButtonPage />} />
                   </Routes>
           </Provider>
     </div>
