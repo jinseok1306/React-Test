@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <None Remove="client_app\src\components\Button\BasicButtons.tsx" />
+    <None Remove="client_app\src\components\Button\OutlinedButtons.tsx" />
     <None Remove="client_app\src\components\Button\TextButtons.tsx" />
     <None Remove="client_app\src\components\cart.tsx" />
     <None Remove="client_app\src\components\ComboBox.tsx" />
@@ -56,6 +57,7 @@
 
   <ItemGroup>
     <TypeScriptCompile Include="client_app\src\components\Button\BasicButtons.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Button\OutlinedButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\TextButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\cart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Inputs\CheckboxesTags.tsx" />

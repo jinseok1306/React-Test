@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicButtons from '../../components/Button/BasicButtons';
 import TextButtons from '../../components/Button/TextButtons';
+import OutlinedButtons from '../../components/Button/OutlinedButtons';
 
 const ButtonPage = () => {
     return (
@@ -11,12 +12,16 @@ const ButtonPage = () => {
             <div style={{ margin: 20 }}>
                 <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
                     <Grid item xs={3}>
-                        <b>BasicButtons</b>
+                        <b>Basic Buttons</b>
                         <BasicButtons />
                     </Grid>
                     <Grid item xs={3}>
-                        <b>TextButtons</b>
+                        <b>Text Buttons</b>
                         <TextButtons />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>Outlined Buttons</b>
+                        <OutlinedButtons />
                     </Grid>
                 </Grid>
             </div>
