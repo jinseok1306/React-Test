@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicButtons from '../../components/Button/BasicButtons';
+import TextButtons from '../../components/Button/TextButtons';
 
 const ButtonPage = () => {
     return (
@@ -12,7 +13,11 @@ const ButtonPage = () => {
                     <Grid item xs={3}>
                         <b>BasicButtons</b>
                         <BasicButtons />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>TextButtons</b>
+                        <TextButtons />
+                    </Grid>
                 </Grid>
             </div>
         </div>
