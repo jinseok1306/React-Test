@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicRating from '../../components/Rating/BasicRating';
 import HoverRating from '../../components/Rating/HoverRating';
+import CustomizedRating from '../../components/Rating/CustomizedRating';
 
 const RatingPage = () => {
     return (
@@ -17,6 +18,10 @@ const RatingPage = () => {
                     <Grid item xs={3}>
                         <b>HoverRating</b><div>&nbsp;</div>
                         <HoverRating />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CustomizedRating</b><div>&nbsp;</div>
+                        <CustomizedRating />
                     </Grid>
                 </Grid>
             </div>
