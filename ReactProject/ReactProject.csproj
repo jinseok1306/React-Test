@@ -12,6 +12,7 @@
     <None Remove="client_app\src\components\Button\IconButtons.tsx" />
     <None Remove="client_app\src\components\Button\IconLabelButtons.tsx" />
     <None Remove="client_app\src\components\Button\OutlinedButtons.tsx" />
+    <None Remove="client_app\src\components\Button\SplitButton.tsx" />
     <None Remove="client_app\src\components\Button\TextButtons.tsx" />
     <None Remove="client_app\src\components\Button\UploadButtons.tsx" />
     <None Remove="client_app\src\components\cart.tsx" />
@@ -65,6 +66,7 @@
     <TypeScriptCompile Include="client_app\src\components\Button\IconButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\IconLabelButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\OutlinedButtons.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Button\SplitButton.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\TextButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\UploadButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\cart.tsx" />
