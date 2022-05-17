@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import Checkboxes from '../../components/Checkbox/Checkboxes';
 import CheckboxLabels from '../../components/Checkbox/CheckboxLabels';
 import IndeterminateCheckbox from '../../components/Checkbox/IndeterminateCheckbox';
+import FormControlLabelPosition from '../../components/Checkbox/FormControlLabelPosition';
 
 const CheckboxPage = () => {
     return (
@@ -22,6 +23,10 @@ const CheckboxPage = () => {
                     <Grid item xs={3}>
                         <b>IndeterminateCheckbox</b>
                         <IndeterminateCheckbox />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>FormControlLabelPosition</b>
+                        <FormControlLabelPosition />
                     </Grid>
                 </Grid>
             </div>
