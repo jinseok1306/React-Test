@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import Checkboxes from '../../components/Checkbox/Checkboxes';
 import CheckboxLabels from '../../components/Checkbox/CheckboxLabels';
+import IndeterminateCheckbox from '../../components/Checkbox/IndeterminateCheckbox';
 
 const CheckboxPage = () => {
     return (
@@ -17,6 +18,10 @@ const CheckboxPage = () => {
                     <Grid item xs={3}>
                         <b>CheckboxLabels</b>
                         <CheckboxLabels />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>IndeterminateCheckbox</b>
+                        <IndeterminateCheckbox />
                     </Grid>
                 </Grid>
             </div>
