@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import Checkboxes from '../../components/Checkbox/Checkboxes';
+import CheckboxLabels from '../../components/Checkbox/CheckboxLabels';
 
 const CheckboxPage = () => {
     return (
@@ -12,7 +13,11 @@ const CheckboxPage = () => {
                     <Grid item xs={3}>
                         <b>Checkboxes</b>
                         <Checkboxes />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CheckboxLabels</b>
+                        <CheckboxLabels />
+                    </Grid>
                 </Grid>
             </div>
         </div>

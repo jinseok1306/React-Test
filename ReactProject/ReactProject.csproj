@@ -17,6 +17,7 @@
     <None Remove="client_app\src\components\Button\UploadButtons.tsx" />
     <None Remove="client_app\src\components\cart.tsx" />
     <None Remove="client_app\src\components\Checkbox\Checkboxes.tsx" />
+    <None Remove="client_app\src\components\Checkbox\CheckboxLabels.tsx" />
     <None Remove="client_app\src\components\ComboBox.tsx" />
     <None Remove="client_app\src\components\inputCart.tsx" />
     <None Remove="client_app\src\components\Inputs\CheckboxesTags.tsx" />
@@ -73,6 +74,7 @@
     <TypeScriptCompile Include="client_app\src\components\Button\UploadButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\cart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Checkbox\Checkboxes.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Checkbox\CheckboxLabels.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Inputs\CheckboxesTags.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Inputs\ComboBox.tsx" />
     <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
