@@ -32,6 +32,7 @@
     <None Remove="client_app\src\components\Radio\RadioButtonsGroup.tsx" />
     <None Remove="client_app\src\components\Radio\RowRadioButtonsGroup.tsx" />
     <None Remove="client_app\src\components\Rating\BasicRating.tsx" />
+    <None Remove="client_app\src\components\Rating\HoverRating.tsx" />
     <None Remove="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <None Remove="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
@@ -97,6 +98,7 @@
     <TypeScriptCompile Include="client_app\src\components\Radio\RadioButtonsGroup.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\RowRadioButtonsGroup.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Rating\BasicRating.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Rating\HoverRating.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
