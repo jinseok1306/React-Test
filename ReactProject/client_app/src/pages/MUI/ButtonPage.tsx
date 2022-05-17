@@ -6,6 +6,7 @@ import TextButtons from '../../components/Button/TextButtons';
 import OutlinedButtons from '../../components/Button/OutlinedButtons';
 import UploadButtons from '../../components/Button/UploadButtons';
 import IconLabelButtons from '../../components/Button/IconLabelButtons';
+import IconButtons from '../../components/Button/IconButtons';
 
 const ButtonPage = () => {
     return (
@@ -32,6 +33,10 @@ const ButtonPage = () => {
                     <Grid item xs={3}>
                         <b>IconLabelButtons</b>
                         <IconLabelButtons />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>IconButtons</b>
+                        <IconButtons />
                     </Grid>
                 </Grid>
             </div>
