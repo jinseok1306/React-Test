@@ -20,6 +20,7 @@
     <None Remove="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
     <None Remove="client_app\src\pages\Home.tsx" />
     <None Remove="client_app\src\pages\index.tsx" />
+    <None Remove="client_app\src\pages\MUI\InputPage.tsx" />
     <None Remove="client_app\src\pages\ReduxTest.tsx" />
     <None Remove="client_app\src\pages\TeamWorkDetail.tsx" />
     <None Remove="client_app\src\pages\TeamWorkList.tsx" />
@@ -57,6 +58,7 @@
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleLineChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleRadarChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\InputPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\ReduxTest.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Home.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\index.tsx" />
