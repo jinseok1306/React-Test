@@ -16,6 +16,7 @@
     <None Remove="client_app\src\components\Button\TextButtons.tsx" />
     <None Remove="client_app\src\components\Button\UploadButtons.tsx" />
     <None Remove="client_app\src\components\cart.tsx" />
+    <None Remove="client_app\src\components\Checkbox\Checkboxes.tsx" />
     <None Remove="client_app\src\components\ComboBox.tsx" />
     <None Remove="client_app\src\components\inputCart.tsx" />
     <None Remove="client_app\src\components\Inputs\CheckboxesTags.tsx" />
@@ -34,6 +35,7 @@
     <None Remove="client_app\src\pages\Home.tsx" />
     <None Remove="client_app\src\pages\index.tsx" />
     <None Remove="client_app\src\pages\MUI\ButtonPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\CheckboxPage.tsx" />
     <None Remove="client_app\src\pages\MUI\InputPage.tsx" />
     <None Remove="client_app\src\pages\ReduxTest.tsx" />
     <None Remove="client_app\src\pages\TeamWorkDetail.tsx" />
@@ -70,6 +72,7 @@
     <TypeScriptCompile Include="client_app\src\components\Button\TextButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\UploadButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\cart.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Checkbox\Checkboxes.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Inputs\CheckboxesTags.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Inputs\ComboBox.tsx" />
     <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
@@ -86,6 +89,7 @@
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleRadarChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ButtonPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\CheckboxPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\InputPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\ReduxTest.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Home.tsx" />
