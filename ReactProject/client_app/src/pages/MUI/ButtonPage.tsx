@@ -8,6 +8,7 @@ import UploadButtons from '../../components/Button/UploadButtons';
 import IconLabelButtons from '../../components/Button/IconLabelButtons';
 import IconButtons from '../../components/Button/IconButtons';
 import BasicButtonGroup from '../../components/Button/BasicButtonGroup';
+import SplitButton from '../../components/Button/SplitButton';
 
 const ButtonPage = () => {
     return (
@@ -42,6 +43,10 @@ const ButtonPage = () => {
                     <Grid item xs={3}>
                         <b>BasicButtonGroup</b><div>&nbsp;</div>
                         <BasicButtonGroup />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>SplitButton</b><div>&nbsp;</div>
+                        <SplitButton />
                     </Grid>
                 </Grid>
             </div>
