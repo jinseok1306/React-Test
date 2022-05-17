@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import BasicRating from '../../components/Rating/BasicRating';
 import HoverRating from '../../components/Rating/HoverRating';
 import CustomizedRating from '../../components/Rating/CustomizedRating';
+import RadioGroupRating from '../../components/Rating/RadioGroupRating';
 
 const RatingPage = () => {
     return (
@@ -22,6 +23,10 @@ const RatingPage = () => {
                     <Grid item xs={3}>
                         <b>CustomizedRating</b><div>&nbsp;</div>
                         <CustomizedRating />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>RadioGroupRating</b><div>&nbsp;</div>
+                        <RadioGroupRating />
                     </Grid>
                 </Grid>
             </div>
