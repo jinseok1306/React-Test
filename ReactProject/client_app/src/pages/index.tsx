@@ -13,3 +13,4 @@ export { default as SimpleRadarChart } from './Chart/SimpleRadarChart';
 export { default as InputPage } from './MUI/InputPage';
 export { default as ButtonPage } from './MUI/ButtonPage';
 export { default as CheckboxPage } from './MUI/CheckboxPage';
+export { default as RadioPage } from './MUI/RadioPage';
