@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="client_app\src\components\Button\BasicButtons.tsx" />
     <None Remove="client_app\src\components\cart.tsx" />
     <None Remove="client_app\src\components\ComboBox.tsx" />
     <None Remove="client_app\src\components\inputCart.tsx" />
@@ -25,6 +26,7 @@
     <None Remove="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
     <None Remove="client_app\src\pages\Home.tsx" />
     <None Remove="client_app\src\pages\index.tsx" />
+    <None Remove="client_app\src\pages\MUI\ButtonPage.tsx" />
     <None Remove="client_app\src\pages\MUI\InputPage.tsx" />
     <None Remove="client_app\src\pages\ReduxTest.tsx" />
     <None Remove="client_app\src\pages\TeamWorkDetail.tsx" />
@@ -52,6 +54,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="client_app\src\components\Button\BasicButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\cart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Inputs\CheckboxesTags.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Inputs\ComboBox.tsx" />
@@ -68,6 +71,7 @@
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleLineChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleRadarChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\ButtonPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\InputPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\ReduxTest.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Home.tsx" />
