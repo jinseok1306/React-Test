@@ -28,6 +28,7 @@
     <None Remove="client_app\src\components\Inputs\Grouped.tsx" />
     <None Remove="client_app\src\components\Menu.tsx" />
     <None Remove="client_app\src\components\otherCart.tsx" />
+    <None Remove="client_app\src\components\Radio\ErrorRadios.tsx" />
     <None Remove="client_app\src\components\Radio\RadioButtonsGroup.tsx" />
     <None Remove="client_app\src\components\Radio\RowRadioButtonsGroup.tsx" />
     <None Remove="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
@@ -90,6 +91,7 @@
     <TypeScriptCompile Include="client_app\src\components\Inputs\Grouped.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Radio\ErrorRadios.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\RadioButtonsGroup.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\RowRadioButtonsGroup.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
