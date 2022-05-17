@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import BasicButtons from '../../components/Button/BasicButtons';
 import TextButtons from '../../components/Button/TextButtons';
 import OutlinedButtons from '../../components/Button/OutlinedButtons';
+import UploadButtons from '../../components/Button/UploadButtons';
 
 const ButtonPage = () => {
     return (
@@ -22,6 +23,10 @@ const ButtonPage = () => {
                     <Grid item xs={3}>
                         <b>Outlined Buttons</b>
                         <OutlinedButtons />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>Upload Buttons</b>
+                        <UploadButtons />
                     </Grid>
                 </Grid>
             </div>
