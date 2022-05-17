@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="client_app\src\components\Button\BasicButtonGroup.tsx" />
     <None Remove="client_app\src\components\Button\BasicButtons.tsx" />
     <None Remove="client_app\src\components\Button\IconButtons.tsx" />
     <None Remove="client_app\src\components\Button\IconLabelButtons.tsx" />
@@ -59,6 +60,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="client_app\src\components\Button\BasicButtonGroup.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\BasicButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\IconButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\IconLabelButtons.tsx" />

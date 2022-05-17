@@ -7,6 +7,7 @@ import OutlinedButtons from '../../components/Button/OutlinedButtons';
 import UploadButtons from '../../components/Button/UploadButtons';
 import IconLabelButtons from '../../components/Button/IconLabelButtons';
 import IconButtons from '../../components/Button/IconButtons';
+import BasicButtonGroup from '../../components/Button/BasicButtonGroup';
 
 const ButtonPage = () => {
     return (
@@ -37,6 +38,10 @@ const ButtonPage = () => {
                     <Grid item xs={3}>
                         <b>IconButtons</b>
                         <IconButtons />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>BasicButtonGroup</b><div>&nbsp;</div>
+                        <BasicButtonGroup />
                     </Grid>
                 </Grid>
             </div>
