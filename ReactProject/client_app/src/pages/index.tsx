@@ -14,3 +14,4 @@ export { default as InputPage } from './MUI/InputPage';
 export { default as ButtonPage } from './MUI/ButtonPage';
 export { default as CheckboxPage } from './MUI/CheckboxPage';
 export { default as RadioPage } from './MUI/RadioPage';
+export { default as RatingPage } from './MUI/RatingPage';

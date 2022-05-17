@@ -26,6 +26,7 @@ function App() {
                   <Route path="/MUI/ButtonPage" element={<Page.ButtonPage />} />
                   <Route path="/MUI/CheckboxPage" element={<Page.CheckboxPage />} />
                   <Route path="/MUI/RadioPage" element={<Page.RadioPage />} />
+                  <Route path="/MUI/RatingPage" element={<Page.RatingPage />} />
                   </Routes>
           </Provider>
     </div>
