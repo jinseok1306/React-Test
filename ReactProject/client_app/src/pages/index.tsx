@@ -17,3 +17,4 @@ export { default as RadioPage } from './MUI/RadioPage';
 export { default as RatingPage } from './MUI/RatingPage';
 export { default as SelectPage } from './MUI/SelectPage';
 export { default as SliderPage } from './MUI/SliderPage';
+export { default as SwitchPage } from './MUI/SwitchPage';
