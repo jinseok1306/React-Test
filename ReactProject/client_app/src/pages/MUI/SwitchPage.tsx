@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicSwitches from '../../components/Switch/BasicSwitches';
+import CustomizedSwitches from '../../components/Switch/CustomizedSwitches';
 
 const SwitchPage = () => {
     return (
@@ -12,7 +13,11 @@ const SwitchPage = () => {
                     <Grid item xs={3}>
                         <b>BasicSwitches</b>
                         <BasicSwitches />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CustomizedSwitches</b>
+                        <CustomizedSwitches />
+                    </Grid>
                 </Grid>
             </div>
         </div>
