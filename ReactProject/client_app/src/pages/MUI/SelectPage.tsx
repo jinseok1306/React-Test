@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicSelect from '../../components/Select/BasicSelect';
 import MultipleSelect from '../../components/Select/MultipleSelect';
+import MultipleSelectCheckmarks from '../../components/Select/MultipleSelectCheckmarks';
 
 const SelectPage = () => {
     return (
@@ -17,6 +18,10 @@ const SelectPage = () => {
                     <Grid item xs={3}>
                         <b>MultipleSelect</b>
                         <MultipleSelect />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>MultipleSelectCheckmarks</b>
+                        <MultipleSelectCheckmarks />
                     </Grid>
                 </Grid>
             </div>
