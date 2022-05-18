@@ -10,7 +10,7 @@ export { default as LineBarAreaComposedChart } from './Chart/LineBarAreaComposed
 export { default as SimpleScatterChart } from './Chart/SimpleScatterChart';
 export { default as PieChartWithCustomizedLabel } from './Chart/PieChartWithCustomizedLabel';
 export { default as SimpleRadarChart } from './Chart/SimpleRadarChart';
-export { default as InputPage } from './MUI/InputPage';
+export { default as AutocompletePage } from './MUI/AutocompletePage';
 export { default as ButtonPage } from './MUI/ButtonPage';
 export { default as CheckboxPage } from './MUI/CheckboxPage';
 export { default as RadioPage } from './MUI/RadioPage';

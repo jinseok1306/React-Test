@@ -1,13 +1,13 @@
 ﻿import React, { useCallback, useState } from "react";
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
-import ComboBox from '../../components/Inputs/ComboBox';
-import ContrySelect from '../../components/Inputs/ContrySelect';
-import Grouped from '../../components/Inputs/Grouped';
-import CustomizedHook from '../../components/Inputs/CustomizedHook';
-import CheckboxesTags from '../../components/Inputs/CheckboxesTags';
+import ComboBox from '../../components/Autocomplete/ComboBox';
+import ContrySelect from '../../components/Autocomplete/ContrySelect';
+import Grouped from '../../components/Autocomplete/Grouped';
+import CustomizedHook from '../../components/Autocomplete/CustomizedHook';
+import CheckboxesTags from '../../components/Autocomplete/CheckboxesTags';
 
-const InputPage = () => {
+const AutocompletePage = () => {
     return (
         <div>
             <Menu />
@@ -39,4 +39,4 @@ const InputPage = () => {
     );
 };
 
-export default InputPage;
+export default AutocompletePage;

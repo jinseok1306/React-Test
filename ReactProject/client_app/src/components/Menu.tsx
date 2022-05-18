@@ -29,7 +29,7 @@ const Menu = () => {
                                 <NavDropdown.Item><Link to="/Chart/SimpleRadarChart" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>SimpleRadarChart</Link></NavDropdown.Item>
                             </NavDropdown>
                             <NavDropdown title="MUI" id="navbarScrollingDropdown">
-                                <NavDropdown.Item><Link to="/MUI/InputPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>Input Page</Link></NavDropdown.Item>
+                                <NavDropdown.Item><Link to="/MUI/AutocompletePage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>Autocomplete Page</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/ButtonPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>Button Page</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/CheckboxPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>Checkbox Page</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/RadioPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>RadioPage</Link></NavDropdown.Item>
