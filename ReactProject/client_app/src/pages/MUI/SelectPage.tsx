@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicSelect from '../../components/Select/BasicSelect';
+import MultipleSelect from '../../components/Select/MultipleSelect';
 
 const SelectPage = () => {
     return (
@@ -12,7 +13,11 @@ const SelectPage = () => {
                     <Grid item xs={3}>
                         <b>BasicSelect</b>
                         <BasicSelect />
-                    </Grid>                   
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>MultipleSelect</b>
+                        <MultipleSelect />
+                    </Grid>
                 </Grid>
             </div>
         </div>

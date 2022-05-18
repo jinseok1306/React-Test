@@ -36,6 +36,7 @@
     <None Remove="client_app\src\components\Rating\HoverRating.tsx" />
     <None Remove="client_app\src\components\Rating\RadioGroupRating.tsx" />
     <None Remove="client_app\src\components\Select\BasicSelect.tsx" />
+    <None Remove="client_app\src\components\Select\MultipleSelect.tsx" />
     <None Remove="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <None Remove="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
@@ -106,6 +107,7 @@
     <TypeScriptCompile Include="client_app\src\components\Rating\HoverRating.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Rating\RadioGroupRating.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Select\BasicSelect.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelect.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
