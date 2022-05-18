@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicTextFields from '../../components/TextField/BasicTextFields';
+import Validation from '../../components/TextField/Validation';
 
 const TextFieldPage = () => {
     return (
@@ -12,7 +13,11 @@ const TextFieldPage = () => {
                     <Grid item xs={3}>
                         <b>BasicTextFields</b>
                         <BasicTextFields />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>Validation</b>
+                        <Validation />
+                    </Grid>
                 </Grid>
             </div>
         </div>
