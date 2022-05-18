@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicSwitches from '../../components/Switch/BasicSwitches';
 import CustomizedSwitches from '../../components/Switch/CustomizedSwitches';
+import FormControlLabelPosition from '../../components/Switch/FormControlLabelPosition';
 
 const SwitchPage = () => {
     return (
@@ -17,6 +18,10 @@ const SwitchPage = () => {
                     <Grid item xs={3}>
                         <b>CustomizedSwitches</b>
                         <CustomizedSwitches />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>FormControlLabelPosition</b>
+                        <FormControlLabelPosition />
                     </Grid>
                 </Grid>
             </div>
