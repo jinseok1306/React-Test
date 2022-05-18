@@ -15,3 +15,4 @@ export { default as ButtonPage } from './MUI/ButtonPage';
 export { default as CheckboxPage } from './MUI/CheckboxPage';
 export { default as RadioPage } from './MUI/RadioPage';
 export { default as RatingPage } from './MUI/RatingPage';
+export { default as SelectPage } from './MUI/SelectPage';

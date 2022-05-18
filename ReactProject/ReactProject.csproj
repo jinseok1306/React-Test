@@ -35,6 +35,7 @@
     <None Remove="client_app\src\components\Rating\CustomizedRating.tsx" />
     <None Remove="client_app\src\components\Rating\HoverRating.tsx" />
     <None Remove="client_app\src\components\Rating\RadioGroupRating.tsx" />
+    <None Remove="client_app\src\components\Select\BasicSelect.tsx" />
     <None Remove="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <None Remove="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
@@ -49,6 +50,7 @@
     <None Remove="client_app\src\pages\MUI\CheckboxPage.tsx" />
     <None Remove="client_app\src\pages\MUI\RadioPage.tsx" />
     <None Remove="client_app\src\pages\MUI\RatingPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\SelectPage.tsx" />
     <None Remove="client_app\src\pages\ReduxTest.tsx" />
     <None Remove="client_app\src\pages\TeamWorkDetail.tsx" />
     <None Remove="client_app\src\pages\TeamWorkList.tsx" />
@@ -103,6 +105,7 @@
     <TypeScriptCompile Include="client_app\src\components\Rating\CustomizedRating.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Rating\HoverRating.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Rating\RadioGroupRating.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Select\BasicSelect.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
@@ -115,6 +118,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\AutocompletePage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\RadioPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\RatingPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\SelectPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\ReduxTest.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Home.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\index.tsx" />
