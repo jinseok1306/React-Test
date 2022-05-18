@@ -28,6 +28,7 @@ function App() {
                   <Route path="/MUI/RadioPage" element={<Page.RadioPage />} />
                   <Route path="/MUI/RatingPage" element={<Page.RatingPage />} />
                   <Route path="/MUI/SelectPage" element={<Page.SelectPage />} />
+                  <Route path="/MUI/SliderPage" element={<Page.SliderPage />} />
                   </Routes>
           </Provider>
     </div>

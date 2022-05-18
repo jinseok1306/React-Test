@@ -40,6 +40,7 @@
     <None Remove="client_app\src\components\Select\MultipleSelect.tsx" />
     <None Remove="client_app\src\components\Select\MultipleSelectCheckmarks.tsx" />
     <None Remove="client_app\src\components\Select\MultipleSelectChip.tsx" />
+    <None Remove="client_app\src\components\Slider\ContinuousSlider.tsx" />
     <None Remove="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <None Remove="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
@@ -55,6 +56,7 @@
     <None Remove="client_app\src\pages\MUI\RadioPage.tsx" />
     <None Remove="client_app\src\pages\MUI\RatingPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SelectPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\SliderPage.tsx" />
     <None Remove="client_app\src\pages\ReduxTest.tsx" />
     <None Remove="client_app\src\pages\TeamWorkDetail.tsx" />
     <None Remove="client_app\src\pages\TeamWorkList.tsx" />
@@ -114,6 +116,7 @@
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelect.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelectCheckmarks.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelectChip.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Slider\ContinuousSlider.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
@@ -127,6 +130,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\RadioPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\RatingPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SelectPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\SliderPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\ReduxTest.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Home.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\index.tsx" />
