@@ -36,6 +36,7 @@
     <None Remove="client_app\src\components\Rating\HoverRating.tsx" />
     <None Remove="client_app\src\components\Rating\RadioGroupRating.tsx" />
     <None Remove="client_app\src\components\Select\BasicSelect.tsx" />
+    <None Remove="client_app\src\components\Select\GroupedSelect.tsx" />
     <None Remove="client_app\src\components\Select\MultipleSelect.tsx" />
     <None Remove="client_app\src\components\Select\MultipleSelectCheckmarks.tsx" />
     <None Remove="client_app\src\components\Select\MultipleSelectChip.tsx" />
@@ -109,6 +110,7 @@
     <TypeScriptCompile Include="client_app\src\components\Rating\HoverRating.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Rating\RadioGroupRating.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Select\BasicSelect.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Select\GroupedSelect.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelect.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelectCheckmarks.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelectChip.tsx" />

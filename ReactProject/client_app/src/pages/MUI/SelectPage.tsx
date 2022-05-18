@@ -4,7 +4,8 @@ import Grid from '@mui/material/Grid';
 import BasicSelect from '../../components/Select/BasicSelect';
 import MultipleSelect from '../../components/Select/MultipleSelect';
 import MultipleSelectCheckmarks from '../../components/Select/MultipleSelectCheckmarks';
-import MultipleSelectChip from '../../components/Select/MultipleSelectChip'
+import MultipleSelectChip from '../../components/Select/MultipleSelectChip';
+import GroupedSelect from '../../components/Select/GroupedSelect';
 
 const SelectPage = () => {
     return (
@@ -27,6 +28,10 @@ const SelectPage = () => {
                     <Grid item xs={3}>
                         <b>MultipleSelectChip</b>
                         <MultipleSelectChip />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>GroupedSelect</b>
+                        <GroupedSelect />
                     </Grid>
                 </Grid>
             </div>
