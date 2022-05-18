@@ -5,6 +5,7 @@ import ContinuousSlider from '../../components/Slider/ContinuousSlider';
 import DiscreteSlider from '../../components/Slider/DiscreteSlider';
 import DiscreteSliderValues from '../../components/Slider/DiscreteSliderValues';
 import RangeSlider from '../../components/Slider/RangeSlider';
+import InputSlider from '../../components/Slider/InputSlider';
 
 const SliderPage = () => {
     return (
@@ -27,6 +28,10 @@ const SliderPage = () => {
                     <Grid item xs={3}>
                         <b>RangeSlider</b>
                         <RangeSlider />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>InputSlider</b>
+                        <InputSlider />
                     </Grid>
                 </Grid>
             </div>
