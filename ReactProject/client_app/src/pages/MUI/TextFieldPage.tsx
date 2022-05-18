@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import BasicTextFields from '../../components/TextField/BasicTextFields';
 import Validation from '../../components/TextField/Validation';
 import InputWithIcon from '../../components/TextField/InputWithIcon';
+import ComposedTextField from '../../components/TextField/ComposedTextField';
 
 const TextFieldPage = () => {
     return (
@@ -22,6 +23,10 @@ const TextFieldPage = () => {
                     <Grid item xs={3}>
                         <b>InputWithIcon</b>
                         <InputWithIcon />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>ComposedTextField</b>
+                        <ComposedTextField />
                     </Grid>
                 </Grid>
             </div>
