@@ -42,6 +42,7 @@
     <None Remove="client_app\src\components\Select\MultipleSelectChip.tsx" />
     <None Remove="client_app\src\components\Slider\ContinuousSlider.tsx" />
     <None Remove="client_app\src\components\Slider\DiscreteSlider.tsx" />
+    <None Remove="client_app\src\components\Slider\DiscreteSliderValues.tsx" />
     <None Remove="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <None Remove="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
     <None Remove="client_app\src\pages\Chart\SimpleAreaChart.tsx" />
@@ -119,6 +120,7 @@
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelectChip.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Slider\ContinuousSlider.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Slider\DiscreteSlider.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Slider\DiscreteSliderValues.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleAreaChart.tsx" />

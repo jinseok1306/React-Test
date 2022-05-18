@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import ContinuousSlider from '../../components/Slider/ContinuousSlider';
 import DiscreteSlider from '../../components/Slider/DiscreteSlider';
+import DiscreteSliderValues from '../../components/Slider/DiscreteSliderValues';
 
 const SliderPage = () => {
     return (
@@ -17,6 +18,10 @@ const SliderPage = () => {
                     <Grid item xs={3}>
                         <b>DiscreteSlider</b>
                         <DiscreteSlider />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>DiscreteSliderValues</b>
+                        <DiscreteSliderValues />
                     </Grid>
                 </Grid>
             </div>
