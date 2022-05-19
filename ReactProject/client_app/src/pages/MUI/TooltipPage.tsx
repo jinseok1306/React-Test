@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicTooltip from '../../components/Tooltip/BasicTooltip';
 import ArrowTooltips from '../../components/Tooltip/ArrowTooltips';
+import VariableWidth from '../../components/Tooltip/VariableWidth';
 
 const TooltipPage = () => {
     return (
@@ -17,6 +18,10 @@ const TooltipPage = () => {
                     <Grid item xs={3}>
                         <b>ArrowTooltips</b><div>&nbsp;</div>
                         <ArrowTooltips />
+                    </Grid>
+                    <Grid item xs={6}>
+                        <b>VariableWidth</b><div>&nbsp;</div>
+                        <VariableWidth />
                     </Grid>
                 </Grid>
             </div>
