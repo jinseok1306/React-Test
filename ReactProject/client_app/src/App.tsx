@@ -36,6 +36,7 @@ function App() {
                   <Route path="/MUI/AvatarPage" element={<Page.AvatarPage />} />
                   <Route path="/MUI/BadgePage" element={<Page.BadgePage />} />
                   <Route path="/MUI/ChipPage" element={<Page.ChipPage />} />
+                  <Route path="/MUI/DividerPage" element={<Page.DividerPage />} />
                   </Routes>
           </Provider>
     </div>
