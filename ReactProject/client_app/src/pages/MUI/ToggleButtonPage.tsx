@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import ToggleButtons from '../../components/ToggleButton/ToggleButtons';
 import ToggleButtonsMultiple from '../../components/ToggleButton/ToggleButtonsMultiple';
+import VerticalToggleButtons from '../../components/ToggleButton/VerticalToggleButtons';
 
 const ToggleButtonPage = () => {
     return (
@@ -17,6 +18,10 @@ const ToggleButtonPage = () => {
                     <Grid item xs={3}>
                         <b>ToggleButtonsMultiple</b><div>&nbsp;</div>
                         <ToggleButtonsMultiple />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>VerticalToggleButtons</b><div>&nbsp;</div>
+                        <VerticalToggleButtons />
                     </Grid>
                 </Grid>
             </div>

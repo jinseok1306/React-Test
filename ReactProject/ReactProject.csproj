@@ -56,6 +56,7 @@
     <None Remove="client_app\src\components\TextField\Validation.tsx" />
     <None Remove="client_app\src\components\ToggleButton\ToggleButtons.tsx" />
     <None Remove="client_app\src\components\ToggleButton\ToggleButtonsMultiple.tsx" />
+    <None Remove="client_app\src\components\ToggleButton\VerticalToggleButtons.tsx" />
     <None Remove="client_app\src\components\TransferList\TransferList.tsx" />
     <None Remove="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <None Remove="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
@@ -152,6 +153,7 @@
     <TypeScriptCompile Include="client_app\src\components\TextField\Validation.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ToggleButton\ToggleButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ToggleButton\ToggleButtonsMultiple.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\ToggleButton\VerticalToggleButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TransferList\TransferList.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\PieChartWithCustomizedLabel.tsx" />
