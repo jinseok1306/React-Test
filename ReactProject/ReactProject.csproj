@@ -79,6 +79,7 @@
     <None Remove="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
     <None Remove="client_app\src\components\Table\BasicTable.tsx" />
     <None Remove="client_app\src\components\Table\DataTable.tsx" />
+    <None Remove="client_app\src\components\Table\DenseTable.tsx" />
     <None Remove="client_app\src\components\TextField\BasicTextFields.tsx" />
     <None Remove="client_app\src\components\TextField\ComposedTextField.tsx" />
     <None Remove="client_app\src\components\TextField\InputWithIcon.tsx" />
@@ -212,6 +213,7 @@
     <TypeScriptCompile Include="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Table\BasicTable.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Table\DataTable.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Table\DenseTable.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\BasicTextFields.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\ComposedTextField.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\InputWithIcon.tsx" />
