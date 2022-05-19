@@ -33,6 +33,7 @@ function App() {
                   <Route path="/MUI/TextFieldPage" element={<Page.TextFieldPage />} />
                   <Route path="/MUI/TransferListPage" element={<Page.TransferListPage />} />
                   <Route path="/MUI/ToggleButtonPage" element={<Page.ToggleButtonPage />} />
+                  <Route path="/MUI/AvatarPage" element={<Page.AvatarPage />} />
                   </Routes>
           </Provider>
     </div>

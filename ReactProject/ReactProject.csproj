@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="client_app\src\components\Avatar\ImageAvatars.tsx" />
     <None Remove="client_app\src\components\Button\BasicButtonGroup.tsx" />
     <None Remove="client_app\src\components\Button\BasicButtons.tsx" />
     <None Remove="client_app\src\components\Button\IconButtons.tsx" />
@@ -69,6 +70,7 @@
     <None Remove="client_app\src\pages\Home.tsx" />
     <None Remove="client_app\src\pages\index.tsx" />
     <None Remove="client_app\src\pages\MUI\AutocompletePage.tsx" />
+    <None Remove="client_app\src\pages\MUI\AvatarPage.tsx" />
     <None Remove="client_app\src\pages\MUI\ButtonPage.tsx" />
     <None Remove="client_app\src\pages\MUI\CheckboxPage.tsx" />
     <None Remove="client_app\src\pages\MUI\RadioPage.tsx" />
@@ -105,6 +107,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="client_app\src\components\Avatar\ImageAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\BasicButtonGroup.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\BasicButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\IconButtons.tsx" />
@@ -164,6 +167,7 @@
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleLineChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleRadarChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\AvatarPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ButtonPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\CheckboxPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\AutocompletePage.tsx" />
