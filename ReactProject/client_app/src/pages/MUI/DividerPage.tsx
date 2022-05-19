@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import ListDividers from '../../components/Divider/ListDividers';
+import InsetDividers from '../../components/Divider/InsetDividers';
 
 const DividerPage = () => {
     return (
@@ -12,7 +13,11 @@ const DividerPage = () => {
                     <Grid item xs={3}>
                         <b>ListDividers</b><div>&nbsp;</div>
                         <ListDividers />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>InsetDividers</b><div>&nbsp;</div>
+                        <InsetDividers />
+                    </Grid>
                 </Grid>
             </div>
         </div>
