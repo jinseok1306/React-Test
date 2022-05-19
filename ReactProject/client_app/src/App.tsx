@@ -43,6 +43,7 @@ function App() {
                   <Route path="/MUI/AlertPage" element={<Page.AlertPage />} />
                   <Route path="/MUI/BackdropPage" element={<Page.BackdropPage />} />
                   <Route path="/MUI/DialogPage" element={<Page.DialogPage />} />
+                  <Route path="/MUI/ProgressPage" element={<Page.ProgressPage />} />
                   </Routes>
           </Provider>
     </div>

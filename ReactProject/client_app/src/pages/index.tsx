@@ -31,3 +31,4 @@ export { default as TooltipPage } from './MUI/TooltipPage';
 export { default as AlertPage } from './MUI/AlertPage';
 export { default as BackdropPage } from './MUI/BackdropPage';
 export { default as DialogPage } from './MUI/DialogPage';
+export { default as ProgressPage } from './MUI/ProgressPage';
