@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import CircularIndeterminate from '../../components/Progress/CircularIndeterminate';
 import Variants from '../../components/Skeleton/Variants';
+import Animations from '../../components/Skeleton/Animations';
 
 const SkeletonPage = () => {
     return (
@@ -13,7 +14,11 @@ const SkeletonPage = () => {
                     <Grid item xs={3}>
                         <b>Variants</b><div>&nbsp;</div>
                         <Variants />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>Animations</b><div>&nbsp;</div>
+                        <Animations />
+                    </Grid>
                 </Grid>
             </div>
         </div>
