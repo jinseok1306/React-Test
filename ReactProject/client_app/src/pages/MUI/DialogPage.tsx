@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import SimpleDialogDemo from '../../components/Dialog/SimpleDialogDemo';
+import AlertDialog from '../../components/Dialog/AlertDialog';
 
 const DialogPage = () => {
     return (
@@ -12,6 +13,10 @@ const DialogPage = () => {
                     <Grid item xs={3}>
                         <b>SimpleDialogDemo</b><div>&nbsp;</div>
                         <SimpleDialogDemo />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>AlertDialog</b><div>&nbsp;</div>
+                        <AlertDialog />
                     </Grid>
                 </Grid>
             </div>
