@@ -91,6 +91,7 @@
     <None Remove="client_app\src\components\Select\MultipleSelectChip.tsx" />
     <None Remove="client_app\src\components\Skeleton\Animations.tsx" />
     <None Remove="client_app\src\components\Skeleton\Variants.tsx" />
+    <None Remove="client_app\src\components\Skeleton\YouTube.tsx" />
     <None Remove="client_app\src\components\Slider\ContinuousSlider.tsx" />
     <None Remove="client_app\src\components\Slider\DiscreteSlider.tsx" />
     <None Remove="client_app\src\components\Slider\DiscreteSliderValues.tsx" />
@@ -260,6 +261,7 @@
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelectChip.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Skeleton\Animations.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Skeleton\Variants.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Skeleton\YouTube.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Slider\ContinuousSlider.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Slider\DiscreteSlider.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Slider\DiscreteSliderValues.tsx" />
