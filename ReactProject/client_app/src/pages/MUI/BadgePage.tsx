@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import SimpleBadge from '../../components/Badge/SimpleBadge';
+import BadgeVisibility from '../../components/Badge/BadgeVisibility';
 
 const BadgePage = () => {
     return (
@@ -12,7 +13,11 @@ const BadgePage = () => {
                     <Grid item xs={3}>
                         <b>SimpleBadge</b><div>&nbsp;</div>
                         <SimpleBadge />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>BadgeVisibility</b><div>&nbsp;</div>
+                        <BadgeVisibility />
+                    </Grid>
                 </Grid>
             </div>
         </div>

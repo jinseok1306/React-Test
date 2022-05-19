@@ -12,6 +12,7 @@
     <None Remove="client_app\src\components\Avatar\IconAvatars.tsx" />
     <None Remove="client_app\src\components\Avatar\ImageAvatars.tsx" />
     <None Remove="client_app\src\components\Avatar\LetterAvatars.tsx" />
+    <None Remove="client_app\src\components\Badge\BadgeVisibility.tsx" />
     <None Remove="client_app\src\components\Badge\SimpleBadge.tsx" />
     <None Remove="client_app\src\components\Button\BasicButtonGroup.tsx" />
     <None Remove="client_app\src\components\Button\BasicButtons.tsx" />
@@ -118,6 +119,7 @@
     <TypeScriptCompile Include="client_app\src\components\Avatar\IconAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\ImageAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\LetterAvatars.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Badge\BadgeVisibility.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Badge\SimpleBadge.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\BasicButtonGroup.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\BasicButtons.tsx" />
