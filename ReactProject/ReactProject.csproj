@@ -89,6 +89,7 @@
     <None Remove="client_app\src\components\Select\MultipleSelect.tsx" />
     <None Remove="client_app\src\components\Select\MultipleSelectCheckmarks.tsx" />
     <None Remove="client_app\src\components\Select\MultipleSelectChip.tsx" />
+    <None Remove="client_app\src\components\Skeleton\Variants.tsx" />
     <None Remove="client_app\src\components\Slider\ContinuousSlider.tsx" />
     <None Remove="client_app\src\components\Slider\DiscreteSlider.tsx" />
     <None Remove="client_app\src\components\Slider\DiscreteSliderValues.tsx" />
@@ -140,6 +141,7 @@
     <None Remove="client_app\src\pages\MUI\RadioPage.tsx" />
     <None Remove="client_app\src\pages\MUI\RatingPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SelectPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\SkeletonPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SliderPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SwitchPage.tsx" />
     <None Remove="client_app\src\pages\MUI\TablePage.tsx" />
@@ -255,6 +257,7 @@
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelect.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelectCheckmarks.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Select\MultipleSelectChip.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Skeleton\Variants.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Slider\ContinuousSlider.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Slider\DiscreteSlider.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Slider\DiscreteSliderValues.tsx" />
@@ -304,6 +307,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\RadioPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\RatingPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SelectPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\SkeletonPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SliderPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SwitchPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\TablePage.tsx" />
