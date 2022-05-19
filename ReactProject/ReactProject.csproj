@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <None Remove="client_app\src\components\Alert\BasicAlerts.tsx" />
+    <None Remove="client_app\src\components\Alert\DescriptionAlerts.tsx" />
     <None Remove="client_app\src\components\Avatar\BadgeAvatars.tsx" />
     <None Remove="client_app\src\components\Avatar\GroupAvatars.tsx" />
     <None Remove="client_app\src\components\Avatar\IconAvatars.tsx" />
@@ -150,6 +151,7 @@
 
   <ItemGroup>
     <TypeScriptCompile Include="client_app\src\components\Alert\BasicAlerts.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Alert\DescriptionAlerts.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\BadgeAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\GroupAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\IconAvatars.tsx" />
