@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import BasicAlerts from '../../components/Alert/BasicAlerts';
 import DescriptionAlerts from '../../components/Alert/DescriptionAlerts';
 import ActionAlerts from '../../components/Alert/ActionAlerts';
+import TransitionAlerts from '../../components/Alert/TransitionAlerts';
 
 const AlertPage = () => {
     return (
@@ -22,6 +23,10 @@ const AlertPage = () => {
                     <Grid item xs={3}>
                         <b>ActionAlerts</b><div>&nbsp;</div>
                         <ActionAlerts />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>TransitionAlerts</b><div>&nbsp;</div>
+                        <TransitionAlerts />
                     </Grid>
                 </Grid>
             </div>
