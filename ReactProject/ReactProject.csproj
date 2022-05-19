@@ -51,6 +51,7 @@
     <None Remove="client_app\src\components\List\FolderList.tsx" />
     <None Remove="client_app\src\components\List\NestedList.tsx" />
     <None Remove="client_app\src\components\List\SelectedListItem.tsx" />
+    <None Remove="client_app\src\components\List\SwitchListSecondary.tsx" />
     <None Remove="client_app\src\components\Menu.tsx" />
     <None Remove="client_app\src\components\otherCart.tsx" />
     <None Remove="client_app\src\components\Radio\ErrorRadios.tsx" />
@@ -179,6 +180,7 @@
     <TypeScriptCompile Include="client_app\src\components\List\FolderList.tsx" />
     <TypeScriptCompile Include="client_app\src\components\List\NestedList.tsx" />
     <TypeScriptCompile Include="client_app\src\components\List\SelectedListItem.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\List\SwitchListSecondary.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\ErrorRadios.tsx" />
