@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import BasicChips from '../../components/Chip/BasicChips';
 import DeletableChips from '../../components/Chip/DeletableChips';
 import CustomDeleteIconChips from '../../components/Chip/CustomDeleteIconChips';
+import AvatarChips from '../../components/Chip/AvatarChips';
 
 const ChipPage = () => {
     return (
@@ -22,6 +23,10 @@ const ChipPage = () => {
                     <Grid item xs={3}>
                         <b>CustomDeleteIconChips</b><div>&nbsp;</div>
                         <CustomDeleteIconChips />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>AvatarChips</b><div>&nbsp;</div>
+                        <AvatarChips />
                     </Grid>
                 </Grid>
             </div>
