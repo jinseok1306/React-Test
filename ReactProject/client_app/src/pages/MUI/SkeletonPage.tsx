@@ -5,6 +5,7 @@ import CircularIndeterminate from '../../components/Progress/CircularIndetermina
 import Variants from '../../components/Skeleton/Variants';
 import Animations from '../../components/Skeleton/Animations';
 import YouTube from '../../components/Skeleton/YouTube';
+import Facebook from '../../components/Skeleton/Facebook';
 
 const SkeletonPage = () => {
     return (
@@ -23,6 +24,10 @@ const SkeletonPage = () => {
                     <Grid item xs={3}>
                         <b>YouTube</b><div>&nbsp;</div>
                         <YouTube />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>Facebook</b><div>&nbsp;</div>
+                        <Facebook />
                     </Grid>
                 </Grid>
             </div>
