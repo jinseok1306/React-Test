@@ -28,6 +28,7 @@
     <None Remove="client_app\src\components\Checkbox\FormControlLabelPosition.tsx" />
     <None Remove="client_app\src\components\Checkbox\IndeterminateCheckbox.tsx" />
     <None Remove="client_app\src\components\Chip\BasicChips.tsx" />
+    <None Remove="client_app\src\components\Chip\DeletableChips.tsx" />
     <None Remove="client_app\src\components\ComboBox.tsx" />
     <None Remove="client_app\src\components\inputCart.tsx" />
     <None Remove="client_app\src\components\Autocomplete\CheckboxesTags.tsx" />
@@ -139,6 +140,7 @@
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\CheckboxesTags.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\ComboBox.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Chip\BasicChips.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Chip\DeletableChips.tsx" />
     <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\ContrySelect.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\CustomizedHook.tsx" />
