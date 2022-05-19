@@ -22,3 +22,4 @@ export { default as TextFieldPage } from './MUI/TextFieldPage';
 export { default as TransferListPage } from './MUI/TransferListPage';
 export { default as ToggleButtonPage } from './MUI/ToggleButtonPage';
 export { default as AvatarPage } from './MUI/AvatarPage';
+export { default as BadgePage } from './MUI/BadgePage';

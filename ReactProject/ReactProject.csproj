@@ -12,6 +12,7 @@
     <None Remove="client_app\src\components\Avatar\IconAvatars.tsx" />
     <None Remove="client_app\src\components\Avatar\ImageAvatars.tsx" />
     <None Remove="client_app\src\components\Avatar\LetterAvatars.tsx" />
+    <None Remove="client_app\src\components\Badge\SimpleBadge.tsx" />
     <None Remove="client_app\src\components\Button\BasicButtonGroup.tsx" />
     <None Remove="client_app\src\components\Button\BasicButtons.tsx" />
     <None Remove="client_app\src\components\Button\IconButtons.tsx" />
@@ -75,6 +76,7 @@
     <None Remove="client_app\src\pages\index.tsx" />
     <None Remove="client_app\src\pages\MUI\AutocompletePage.tsx" />
     <None Remove="client_app\src\pages\MUI\AvatarPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\BadgePage.tsx" />
     <None Remove="client_app\src\pages\MUI\ButtonPage.tsx" />
     <None Remove="client_app\src\pages\MUI\CheckboxPage.tsx" />
     <None Remove="client_app\src\pages\MUI\RadioPage.tsx" />
@@ -116,6 +118,7 @@
     <TypeScriptCompile Include="client_app\src\components\Avatar\IconAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\ImageAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\LetterAvatars.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Badge\SimpleBadge.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\BasicButtonGroup.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\BasicButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\IconButtons.tsx" />
@@ -176,6 +179,7 @@
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleRadarChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\AvatarPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\BadgePage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ButtonPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\CheckboxPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\AutocompletePage.tsx" />
