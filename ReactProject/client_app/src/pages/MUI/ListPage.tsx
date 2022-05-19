@@ -8,6 +8,7 @@ import SelectedListItem from '../../components/List/SelectedListItem';
 import AlignItemsList from '../../components/List/AlignItemsList';
 import CheckboxList from '../../components/List/CheckboxList';
 import SwitchListSecondary from '../../components/List/SwitchListSecondary';
+import PinnedSubheaderList from '../../components/List/PinnedSubheaderList';
 
 const ListPage = () => {
     return (
@@ -42,6 +43,10 @@ const ListPage = () => {
                     <Grid item xs={3}>
                         <b>SwitchListSecondary</b><div>&nbsp;</div>
                         <SwitchListSecondary />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>PinnedSubheaderList</b><div>&nbsp;</div>
+                        <PinnedSubheaderList />
                     </Grid>
                 </Grid>
             </div>
