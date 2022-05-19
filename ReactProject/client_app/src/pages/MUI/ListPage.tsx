@@ -6,6 +6,7 @@ import NestedList from '../../components/List/NestedList';
 import FolderList from '../../components/List/FolderList';
 import SelectedListItem from '../../components/List/SelectedListItem';
 import AlignItemsList from '../../components/List/AlignItemsList';
+import CheckboxList from '../../components/List/CheckboxList';
 
 const ListPage = () => {
     return (
@@ -32,6 +33,10 @@ const ListPage = () => {
                     <Grid item xs={3}>
                         <b>AlignItemsList</b><div>&nbsp;</div>
                         <AlignItemsList />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CheckboxList</b><div>&nbsp;</div>
+                        <CheckboxList />
                     </Grid>
                 </Grid>
             </div>
