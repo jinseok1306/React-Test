@@ -5,6 +5,7 @@ import BasicChips from '../../components/Chip/BasicChips';
 import DeletableChips from '../../components/Chip/DeletableChips';
 import CustomDeleteIconChips from '../../components/Chip/CustomDeleteIconChips';
 import AvatarChips from '../../components/Chip/AvatarChips';
+import ChipsArray from '../../components/Chip/ChipsArray';
 
 const ChipPage = () => {
     return (
@@ -27,6 +28,10 @@ const ChipPage = () => {
                     <Grid item xs={3}>
                         <b>AvatarChips</b><div>&nbsp;</div>
                         <AvatarChips />
+                    </Grid>
+                    <Grid item xs={4}>
+                        <b>ChipsArray</b><div>&nbsp;</div>
+                        <ChipsArray />
                     </Grid>
                 </Grid>
             </div>
