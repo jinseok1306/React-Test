@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicChips from '../../components/Chip/BasicChips';
 import DeletableChips from '../../components/Chip/DeletableChips';
+import CustomDeleteIconChips from '../../components/Chip/CustomDeleteIconChips';
 
 const ChipPage = () => {
     return (
@@ -17,6 +18,10 @@ const ChipPage = () => {
                     <Grid item xs={3}>
                         <b>DeletableChips</b><div>&nbsp;</div>
                         <DeletableChips />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CustomDeleteIconChips</b><div>&nbsp;</div>
+                        <CustomDeleteIconChips />
                     </Grid>
                 </Grid>
             </div>
