@@ -76,6 +76,7 @@
     <None Remove="client_app\src\components\Progress\LinearBuffer.tsx" />
     <None Remove="client_app\src\components\Progress\LinearDeterminate.tsx" />
     <None Remove="client_app\src\components\Progress\LinearIndeterminate.tsx" />
+    <None Remove="client_app\src\components\Progress\LinearWithValueLabel.tsx" />
     <None Remove="client_app\src\components\Radio\ErrorRadios.tsx" />
     <None Remove="client_app\src\components\Radio\RadioButtonsGroup.tsx" />
     <None Remove="client_app\src\components\Radio\RowRadioButtonsGroup.tsx" />
@@ -241,6 +242,7 @@
     <TypeScriptCompile Include="client_app\src\components\Progress\LinearBuffer.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Progress\LinearDeterminate.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Progress\LinearIndeterminate.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Progress\LinearWithValueLabel.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\ErrorRadios.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\RadioButtonsGroup.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\RowRadioButtonsGroup.tsx" />

@@ -8,6 +8,7 @@ import CircularStatic from '../../components/Progress/CircularStatic';
 import LinearIndeterminate from '../../components/Progress/LinearIndeterminate';
 import LinearDeterminate from '../../components/Progress/LinearDeterminate';
 import LinearBuffer from '../../components/Progress/LinearBuffer';
+import LinearWithValueLabel from '../../components/Progress/LinearWithValueLabel';
 
 const ProgressPage = () => {
     return (
@@ -42,6 +43,10 @@ const ProgressPage = () => {
                     <Grid item xs={3}>
                         <b>LinearBuffer</b><div>&nbsp;</div>
                         <LinearBuffer />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>LinearWithValueLabel</b><div>&nbsp;</div>
+                        <LinearWithValueLabel />
                     </Grid>
                 </Grid>
             </div>
