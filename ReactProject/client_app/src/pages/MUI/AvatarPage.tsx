@@ -5,6 +5,7 @@ import ImageAvatars from '../../components/Avatar/ImageAvatars';
 import LetterAvatars from '../../components/Avatar/LetterAvatars';
 import IconAvatars from '../../components/Avatar/IconAvatars';
 import GroupAvatars from '../../components/Avatar/GroupAvatars';
+import BadgeAvatars from '../../components/Avatar/BadgeAvatars';
 
 const AvatarPage = () => {
     return (
@@ -27,6 +28,10 @@ const AvatarPage = () => {
                     <Grid item xs={3}>
                         <b>GroupAvatars</b><div>&nbsp;</div>
                         <GroupAvatars />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>BadgeAvatars</b><div>&nbsp;</div>
+                        <BadgeAvatars />
                     </Grid>
                 </Grid>
             </div>
