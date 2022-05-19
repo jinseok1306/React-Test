@@ -5,6 +5,7 @@ import BasicTable from '../../components/Table/BasicTable';
 import DataTable from '../../components/Table/DataTable';
 import DenseTable from '../../components/Table/DenseTable';
 import EnhancedTable from '../../components/Table/EnhancedTable';
+import CollapsibleTable from '../../components/Table/CollapsibleTable';
 
 const TablePage = () => {
     return (
@@ -27,6 +28,10 @@ const TablePage = () => {
                     <Grid item xs={6}>
                         <b>EnhancedTable</b><div>&nbsp;</div>
                         <EnhancedTable />
+                    </Grid>
+                    <Grid item xs={6}>
+                        <b>CollapsibleTable</b><div>&nbsp;</div>
+                        <CollapsibleTable />
                     </Grid>
                 </Grid>
             </div>

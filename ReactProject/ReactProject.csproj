@@ -78,6 +78,7 @@
     <None Remove="client_app\src\components\Switch\CustomizedSwitches.tsx" />
     <None Remove="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
     <None Remove="client_app\src\components\Table\BasicTable.tsx" />
+    <None Remove="client_app\src\components\Table\CollapsibleTable.tsx" />
     <None Remove="client_app\src\components\Table\DataTable.tsx" />
     <None Remove="client_app\src\components\Table\DenseTable.tsx" />
     <None Remove="client_app\src\components\Table\EnhancedTable.tsx" />
@@ -213,6 +214,7 @@
     <TypeScriptCompile Include="client_app\src\components\Switch\CustomizedSwitches.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Table\BasicTable.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Table\CollapsibleTable.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Table\DataTable.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Table\DenseTable.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Table\EnhancedTable.tsx" />
