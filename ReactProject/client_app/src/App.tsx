@@ -38,6 +38,7 @@ function App() {
                   <Route path="/MUI/ChipPage" element={<Page.ChipPage />} />
                   <Route path="/MUI/DividerPage" element={<Page.DividerPage />} />
                   <Route path="/MUI/ListPage" element={<Page.ListPage />} />
+                  <Route path="/MUI/TablePage" element={<Page.TablePage />} />
                   </Routes>
           </Provider>
     </div>

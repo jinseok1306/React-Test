@@ -26,3 +26,4 @@ export { default as BadgePage } from './MUI/BadgePage';
 export { default as ChipPage } from './MUI/ChipPage';
 export { default as DividerPage } from './MUI/DividerPage';
 export { default as ListPage } from './MUI/ListPage';
+export { default as TablePage } from './MUI/TablePage';

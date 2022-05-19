@@ -77,6 +77,7 @@
     <None Remove="client_app\src\components\Switch\BasicSwitches.tsx" />
     <None Remove="client_app\src\components\Switch\CustomizedSwitches.tsx" />
     <None Remove="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
+    <None Remove="client_app\src\components\Table\BasicTable.tsx" />
     <None Remove="client_app\src\components\TextField\BasicTextFields.tsx" />
     <None Remove="client_app\src\components\TextField\ComposedTextField.tsx" />
     <None Remove="client_app\src\components\TextField\InputWithIcon.tsx" />
@@ -108,6 +109,7 @@
     <None Remove="client_app\src\pages\MUI\SelectPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SliderPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SwitchPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\TablePage.tsx" />
     <None Remove="client_app\src\pages\MUI\TextFieldPage.tsx" />
     <None Remove="client_app\src\pages\MUI\ToggleButtonPage.tsx" />
     <None Remove="client_app\src\pages\MUI\TransferListPage.tsx" />
@@ -207,6 +209,7 @@
     <TypeScriptCompile Include="client_app\src\components\Switch\BasicSwitches.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\CustomizedSwitches.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Table\BasicTable.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\BasicTextFields.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\ComposedTextField.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\InputWithIcon.tsx" />
@@ -236,6 +239,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\SelectPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SliderPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SwitchPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\TablePage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\TextFieldPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ToggleButtonPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\TransferListPage.tsx" />
