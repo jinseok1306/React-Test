@@ -54,6 +54,7 @@
     <None Remove="client_app\src\components\TextField\ComposedTextField.tsx" />
     <None Remove="client_app\src\components\TextField\InputWithIcon.tsx" />
     <None Remove="client_app\src\components\TextField\Validation.tsx" />
+    <None Remove="client_app\src\components\ToggleButton\ToggleButtonNotEmpty.tsx" />
     <None Remove="client_app\src\components\ToggleButton\ToggleButtons.tsx" />
     <None Remove="client_app\src\components\ToggleButton\ToggleButtonsMultiple.tsx" />
     <None Remove="client_app\src\components\ToggleButton\VerticalToggleButtons.tsx" />
@@ -151,6 +152,7 @@
     <TypeScriptCompile Include="client_app\src\components\TextField\ComposedTextField.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\InputWithIcon.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\Validation.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\ToggleButton\ToggleButtonNotEmpty.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ToggleButton\ToggleButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ToggleButton\ToggleButtonsMultiple.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ToggleButton\VerticalToggleButtons.tsx" />
