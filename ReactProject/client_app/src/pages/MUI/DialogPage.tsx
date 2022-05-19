@@ -5,6 +5,7 @@ import SimpleDialogDemo from '../../components/Dialog/SimpleDialogDemo';
 import AlertDialog from '../../components/Dialog/AlertDialog';
 import AlertDialogSlide from '../../components/Dialog/AlertDialogSlide';
 import FormDialog from '../../components/Dialog/FormDialog';
+import FullScreenDialog from '../../components/Dialog/FullScreenDialog';
 
 const DialogPage = () => {
     return (
@@ -27,6 +28,10 @@ const DialogPage = () => {
                     <Grid item xs={3}>
                         <b>FormDialog</b><div>&nbsp;</div>
                         <FormDialog />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>FullScreenDialog</b><div>&nbsp;</div>
+                        <FullScreenDialog />
                     </Grid>
                 </Grid>
             </div>

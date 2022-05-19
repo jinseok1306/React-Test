@@ -42,6 +42,7 @@
     <None Remove="client_app\src\components\Dialog\AlertDialog.tsx" />
     <None Remove="client_app\src\components\Dialog\AlertDialogSlide.tsx" />
     <None Remove="client_app\src\components\Dialog\FormDialog.tsx" />
+    <None Remove="client_app\src\components\Dialog\FullScreenDialog.tsx" />
     <None Remove="client_app\src\components\Dialog\SimpleDialogDemo.tsx" />
     <None Remove="client_app\src\components\Divider\DividerText.tsx" />
     <None Remove="client_app\src\components\Divider\InsetDividers.tsx" />
@@ -196,6 +197,7 @@
     <TypeScriptCompile Include="client_app\src\components\Dialog\AlertDialog.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Dialog\AlertDialogSlide.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Dialog\FormDialog.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Dialog\FullScreenDialog.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Dialog\SimpleDialogDemo.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Divider\DividerText.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Divider\InsetDividers.tsx" />
