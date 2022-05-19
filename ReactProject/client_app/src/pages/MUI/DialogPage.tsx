@@ -6,6 +6,7 @@ import AlertDialog from '../../components/Dialog/AlertDialog';
 import AlertDialogSlide from '../../components/Dialog/AlertDialogSlide';
 import FormDialog from '../../components/Dialog/FormDialog';
 import FullScreenDialog from '../../components/Dialog/FullScreenDialog';
+import MaxWidthDialog from '../../components/Dialog/MaxWidthDialog';
 
 const DialogPage = () => {
     return (
@@ -32,6 +33,10 @@ const DialogPage = () => {
                     <Grid item xs={3}>
                         <b>FullScreenDialog</b><div>&nbsp;</div>
                         <FullScreenDialog />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>MaxWidthDialog</b><div>&nbsp;</div>
+                        <MaxWidthDialog />
                     </Grid>
                 </Grid>
             </div>
