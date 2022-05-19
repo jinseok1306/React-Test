@@ -73,6 +73,7 @@
     <None Remove="client_app\src\components\Progress\CircularIndeterminate.tsx" />
     <None Remove="client_app\src\components\Progress\CircularIntegration.tsx" />
     <None Remove="client_app\src\components\Progress\CircularStatic.tsx" />
+    <None Remove="client_app\src\components\Progress\LinearIndeterminate.tsx" />
     <None Remove="client_app\src\components\Radio\ErrorRadios.tsx" />
     <None Remove="client_app\src\components\Radio\RadioButtonsGroup.tsx" />
     <None Remove="client_app\src\components\Radio\RowRadioButtonsGroup.tsx" />
@@ -235,6 +236,7 @@
     <TypeScriptCompile Include="client_app\src\components\Progress\CircularIndeterminate.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Progress\CircularIntegration.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Progress\CircularStatic.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Progress\LinearIndeterminate.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\ErrorRadios.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\RadioButtonsGroup.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\RowRadioButtonsGroup.tsx" />
