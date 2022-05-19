@@ -25,3 +25,4 @@ export { default as AvatarPage } from './MUI/AvatarPage';
 export { default as BadgePage } from './MUI/BadgePage';
 export { default as ChipPage } from './MUI/ChipPage';
 export { default as DividerPage } from './MUI/DividerPage';
+export { default as ListPage } from './MUI/ListPage';
