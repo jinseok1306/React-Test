@@ -5,6 +5,7 @@ import BasicList from '../../components/List/BasicList';
 import NestedList from '../../components/List/NestedList';
 import FolderList from '../../components/List/FolderList';
 import SelectedListItem from '../../components/List/SelectedListItem';
+import AlignItemsList from '../../components/List/AlignItemsList';
 
 const ListPage = () => {
     return (
@@ -27,6 +28,10 @@ const ListPage = () => {
                     <Grid item xs={3}>
                         <b>SelectedListItem</b><div>&nbsp;</div>
                         <SelectedListItem />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>AlignItemsList</b><div>&nbsp;</div>
+                        <AlignItemsList />
                     </Grid>
                 </Grid>
             </div>

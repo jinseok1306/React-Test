@@ -45,6 +45,7 @@
     <None Remove="client_app\src\components\Autocomplete\ContrySelect.tsx" />
     <None Remove="client_app\src\components\Autocomplete\CustomizedHook.tsx" />
     <None Remove="client_app\src\components\Autocomplete\Grouped.tsx" />
+    <None Remove="client_app\src\components\List\AlignItemsList.tsx" />
     <None Remove="client_app\src\components\List\BasicList.tsx" />
     <None Remove="client_app\src\components\List\FolderList.tsx" />
     <None Remove="client_app\src\components\List\NestedList.tsx" />
@@ -171,6 +172,7 @@
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\ContrySelect.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\CustomizedHook.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\Grouped.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\List\AlignItemsList.tsx" />
     <TypeScriptCompile Include="client_app\src\components\List\BasicList.tsx" />
     <TypeScriptCompile Include="client_app\src\components\List\FolderList.tsx" />
     <TypeScriptCompile Include="client_app\src\components\List\NestedList.tsx" />
