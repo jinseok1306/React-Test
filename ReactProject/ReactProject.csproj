@@ -90,6 +90,7 @@
     <None Remove="client_app\src\components\ToggleButton\ToggleButtons.tsx" />
     <None Remove="client_app\src\components\ToggleButton\ToggleButtonsMultiple.tsx" />
     <None Remove="client_app\src\components\ToggleButton\VerticalToggleButtons.tsx" />
+    <None Remove="client_app\src\components\Tooltip\ArrowTooltips.tsx" />
     <None Remove="client_app\src\components\Tooltip\BasicTooltip.tsx" />
     <None Remove="client_app\src\components\TransferList\TransferList.tsx" />
     <None Remove="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
@@ -228,6 +229,7 @@
     <TypeScriptCompile Include="client_app\src\components\ToggleButton\ToggleButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ToggleButton\ToggleButtonsMultiple.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ToggleButton\VerticalToggleButtons.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Tooltip\ArrowTooltips.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Tooltip\BasicTooltip.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TransferList\TransferList.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\LineBarAreaComposedChart.tsx" />
