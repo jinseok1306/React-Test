@@ -27,6 +27,7 @@
     <None Remove="client_app\src\components\Checkbox\CheckboxLabels.tsx" />
     <None Remove="client_app\src\components\Checkbox\FormControlLabelPosition.tsx" />
     <None Remove="client_app\src\components\Checkbox\IndeterminateCheckbox.tsx" />
+    <None Remove="client_app\src\components\Chip\BasicChips.tsx" />
     <None Remove="client_app\src\components\ComboBox.tsx" />
     <None Remove="client_app\src\components\inputCart.tsx" />
     <None Remove="client_app\src\components\Autocomplete\CheckboxesTags.tsx" />
@@ -80,6 +81,7 @@
     <None Remove="client_app\src\pages\MUI\BadgePage.tsx" />
     <None Remove="client_app\src\pages\MUI\ButtonPage.tsx" />
     <None Remove="client_app\src\pages\MUI\CheckboxPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\ChipPage.tsx" />
     <None Remove="client_app\src\pages\MUI\RadioPage.tsx" />
     <None Remove="client_app\src\pages\MUI\RatingPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SelectPage.tsx" />
@@ -136,6 +138,7 @@
     <TypeScriptCompile Include="client_app\src\components\Checkbox\IndeterminateCheckbox.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\CheckboxesTags.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\ComboBox.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Chip\BasicChips.tsx" />
     <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\ContrySelect.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\CustomizedHook.tsx" />
@@ -185,6 +188,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\ButtonPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\CheckboxPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\AutocompletePage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\ChipPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\RadioPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\RatingPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SelectPage.tsx" />
