@@ -39,6 +39,7 @@ function App() {
                   <Route path="/MUI/DividerPage" element={<Page.DividerPage />} />
                   <Route path="/MUI/ListPage" element={<Page.ListPage />} />
                   <Route path="/MUI/TablePage" element={<Page.TablePage />} />
+                  <Route path="/MUI/TooltipPage" element={<Page.TooltipPage />} />
                   </Routes>
           </Provider>
     </div>
