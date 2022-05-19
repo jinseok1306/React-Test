@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import SimpleDialogDemo from '../../components/Dialog/SimpleDialogDemo';
 import AlertDialog from '../../components/Dialog/AlertDialog';
 import AlertDialogSlide from '../../components/Dialog/AlertDialogSlide';
+import FormDialog from '../../components/Dialog/FormDialog';
 
 const DialogPage = () => {
     return (
@@ -22,6 +23,10 @@ const DialogPage = () => {
                     <Grid item xs={3}>
                         <b>AlertDialogSlide</b><div>&nbsp;</div>
                         <AlertDialogSlide />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>FormDialog</b><div>&nbsp;</div>
+                        <FormDialog />
                     </Grid>
                 </Grid>
             </div>
