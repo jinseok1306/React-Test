@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicList from '../../components/List/BasicList';
+import NestedList from '../../components/List/NestedList';
 
 const ListPage = () => {
     return (
@@ -12,7 +13,11 @@ const ListPage = () => {
                     <Grid item xs={3}>
                         <b>BasicList</b><div>&nbsp;</div>
                         <BasicList />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>NestedList</b><div>&nbsp;</div>
+                        <NestedList />
+                    </Grid>
                 </Grid>
             </div>
         </div>

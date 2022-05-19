@@ -46,6 +46,7 @@
     <None Remove="client_app\src\components\Autocomplete\CustomizedHook.tsx" />
     <None Remove="client_app\src\components\Autocomplete\Grouped.tsx" />
     <None Remove="client_app\src\components\List\BasicList.tsx" />
+    <None Remove="client_app\src\components\List\NestedList.tsx" />
     <None Remove="client_app\src\components\Menu.tsx" />
     <None Remove="client_app\src\components\otherCart.tsx" />
     <None Remove="client_app\src\components\Radio\ErrorRadios.tsx" />
@@ -169,6 +170,7 @@
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\CustomizedHook.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\Grouped.tsx" />
     <TypeScriptCompile Include="client_app\src\components\List\BasicList.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\List\NestedList.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Radio\ErrorRadios.tsx" />
