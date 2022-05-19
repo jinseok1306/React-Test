@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import ListDividers from '../../components/Divider/ListDividers';
 import InsetDividers from '../../components/Divider/InsetDividers';
+import SubheaderDividers from '../../components/Divider/SubheaderDividers';
 
 const DividerPage = () => {
     return (
@@ -17,6 +18,10 @@ const DividerPage = () => {
                     <Grid item xs={3}>
                         <b>InsetDividers</b><div>&nbsp;</div>
                         <InsetDividers />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>SubheaderDividers</b><div>&nbsp;</div>
+                        <SubheaderDividers />
                     </Grid>
                 </Grid>
             </div>
