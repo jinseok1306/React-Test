@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import ImageAvatars from '../../components/Avatar/ImageAvatars';
+import LetterAvatars from '../../components/Avatar/LetterAvatars';
 
 const AvatarPage = () => {
     return (
@@ -12,7 +13,11 @@ const AvatarPage = () => {
                     <Grid item xs={3}>
                         <b>ImageAvatars</b><div>&nbsp;</div>
                         <ImageAvatars />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>LetterAvatars</b><div>&nbsp;</div>
+                        <LetterAvatars />
+                    </Grid>
                 </Grid>
             </div>
         </div>
