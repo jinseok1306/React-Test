@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import CircularIndeterminate from '../../components/Progress/CircularIndeterminate';
 import CircularDeterminate from '../../components/Progress/CircularDeterminate';
 import CircularIntegration from '../../components/Progress/CircularIntegration';
+import CircularStatic from '../../components/Progress/CircularStatic';
 
 const ProgressPage = () => {
     return (
@@ -22,6 +23,10 @@ const ProgressPage = () => {
                     <Grid item xs={3}>
                         <b>CircularIntegration</b><div>&nbsp;</div>
                         <CircularIntegration />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CircularStatic</b><div>&nbsp;</div>
+                        <CircularStatic />
                     </Grid>
                 </Grid>
             </div>
