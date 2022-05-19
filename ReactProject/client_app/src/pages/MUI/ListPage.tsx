@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import BasicList from '../../components/List/BasicList';
 import NestedList from '../../components/List/NestedList';
 import FolderList from '../../components/List/FolderList';
+import SelectedListItem from '../../components/List/SelectedListItem';
 
 const ListPage = () => {
     return (
@@ -22,6 +23,10 @@ const ListPage = () => {
                     <Grid item xs={3}>
                         <b>FolderList</b><div>&nbsp;</div>
                         <FolderList />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>SelectedListItem</b><div>&nbsp;</div>
+                        <SelectedListItem />
                     </Grid>
                 </Grid>
             </div>
