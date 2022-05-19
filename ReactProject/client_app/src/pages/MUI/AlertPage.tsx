@@ -5,6 +5,7 @@ import BasicAlerts from '../../components/Alert/BasicAlerts';
 import DescriptionAlerts from '../../components/Alert/DescriptionAlerts';
 import ActionAlerts from '../../components/Alert/ActionAlerts';
 import TransitionAlerts from '../../components/Alert/TransitionAlerts';
+import IconAlerts from '../../components/Alert/IconAlerts';
 
 const AlertPage = () => {
     return (
@@ -27,6 +28,10 @@ const AlertPage = () => {
                     <Grid item xs={3}>
                         <b>TransitionAlerts</b><div>&nbsp;</div>
                         <TransitionAlerts />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>IconAlerts</b><div>&nbsp;</div>
+                        <IconAlerts />
                     </Grid>
                 </Grid>
             </div>
