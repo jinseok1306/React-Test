@@ -38,6 +38,7 @@
     <None Remove="client_app\src\components\Divider\ListDividers.tsx" />
     <None Remove="client_app\src\components\Divider\MiddleDividers.tsx" />
     <None Remove="client_app\src\components\Divider\SubheaderDividers.tsx" />
+    <None Remove="client_app\src\components\Divider\VerticalDividers.tsx" />
     <None Remove="client_app\src\components\inputCart.tsx" />
     <None Remove="client_app\src\components\Autocomplete\CheckboxesTags.tsx" />
     <None Remove="client_app\src\components\Autocomplete\ContrySelect.tsx" />
@@ -158,6 +159,7 @@
     <TypeScriptCompile Include="client_app\src\components\Divider\ListDividers.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Divider\MiddleDividers.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Divider\SubheaderDividers.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Divider\VerticalDividers.tsx" />
     <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\ContrySelect.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\CustomizedHook.tsx" />

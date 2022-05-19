@@ -6,6 +6,7 @@ import InsetDividers from '../../components/Divider/InsetDividers';
 import SubheaderDividers from '../../components/Divider/SubheaderDividers';
 import MiddleDividers from '../../components/Divider/MiddleDividers';
 import DividerText from '../../components/Divider/DividerText';
+import VerticalDividers from '../../components/Divider/VerticalDividers';
 
 const DividerPage = () => {
     return (
@@ -32,6 +33,10 @@ const DividerPage = () => {
                     <Grid item xs={6}>
                         <b>DividerText</b><div>&nbsp;</div>
                         <DividerText />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>VerticalDividers</b><div>&nbsp;</div>
+                        <VerticalDividers />
                     </Grid>
                 </Grid>
             </div>
