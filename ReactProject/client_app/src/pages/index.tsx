@@ -20,3 +20,4 @@ export { default as SliderPage } from './MUI/SliderPage';
 export { default as SwitchPage } from './MUI/SwitchPage';
 export { default as TextFieldPage } from './MUI/TextFieldPage';
 export { default as TransferListPage } from './MUI/TransferListPage';
+export { default as ToggleButtonPage } from './MUI/ToggleButtonPage';
