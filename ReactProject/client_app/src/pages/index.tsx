@@ -30,3 +30,4 @@ export { default as TablePage } from './MUI/TablePage';
 export { default as TooltipPage } from './MUI/TooltipPage';
 export { default as AlertPage } from './MUI/AlertPage';
 export { default as BackdropPage } from './MUI/BackdropPage';
+export { default as DialogPage } from './MUI/DialogPage';
