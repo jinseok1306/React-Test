@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import BasicBreadcrumbs from '../../components/Breadcumbs/BasicBreadcrumbs';
 import CustomSeparator from '../../components/Breadcumbs/CustomSeparator';
 import IconBreadcrumbs from '../../components/Breadcumbs/IconBreadcrumbs';
+import CollapsedBreadcrumbs from '../../components/Breadcumbs/CollapsedBreadcrumbs';
 
 const BreadcrumbsPage = () => {
     return (
@@ -22,6 +23,10 @@ const BreadcrumbsPage = () => {
                     <Grid item xs={3}>
                         <b>IconBreadcrumbs</b><div>&nbsp;</div>
                         <IconBreadcrumbs />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CollapsedBreadcrumbs</b><div>&nbsp;</div>
+                        <CollapsedBreadcrumbs />
                     </Grid>
                 </Grid>
             </div>
