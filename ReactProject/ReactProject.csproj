@@ -37,6 +37,7 @@
     <None Remove="client_app\src\components\Button\TextButtons.tsx" />
     <None Remove="client_app\src\components\Button\UploadButtons.tsx" />
     <None Remove="client_app\src\components\Card\BasicCard.tsx" />
+    <None Remove="client_app\src\components\Card\ImgMediaCard.tsx" />
     <None Remove="client_app\src\components\Card\OutlinedCard.tsx" />
     <None Remove="client_app\src\components\Card\RecipeReviewCard.tsx" />
     <None Remove="client_app\src\components\cart.tsx" />
@@ -232,6 +233,7 @@
     <TypeScriptCompile Include="client_app\src\components\Button\TextButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Button\UploadButtons.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Card\BasicCard.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Card\ImgMediaCard.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Card\OutlinedCard.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Card\RecipeReviewCard.tsx" />
     <TypeScriptCompile Include="client_app\src\components\cart.tsx" />

@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import BasicCard from '../../components/Card/BasicCard';
 import OutlinedCard from '../../components/Card/OutlinedCard';
 import RecipeReviewCard from '../../components/Card/RecipeReviewCard';
+import ImgMediaCard from '../../components/Card/ImgMediaCard';
 
 const CardPage = () => {
     return (
@@ -22,6 +23,10 @@ const CardPage = () => {
                     <Grid item xs={3}>
                         <b>RecipeReviewCard</b><div>&nbsp;</div>
                         <RecipeReviewCard />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>ImgMediaCard</b><div>&nbsp;</div>
+                        <ImgMediaCard />
                     </Grid>
                 </Grid>
             </div>
