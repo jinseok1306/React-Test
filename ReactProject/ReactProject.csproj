@@ -156,6 +156,7 @@
     <None Remove="client_app\src\components\Table\DenseTable.tsx" />
     <None Remove="client_app\src\components\Table\EnhancedTable.tsx" />
     <None Remove="client_app\src\components\Tabs\BasicTabs.tsx" />
+    <None Remove="client_app\src\components\Tabs\CustomizedTabs.tsx" />
     <None Remove="client_app\src\components\Tabs\FullWidthTabs.tsx" />
     <None Remove="client_app\src\components\Tabs\ScrollableTabsButtonAuto.tsx" />
     <None Remove="client_app\src\components\Tabs\ScrollableTabsButtonPrevent.tsx" />
@@ -390,6 +391,7 @@
     <TypeScriptCompile Include="client_app\src\components\Table\DenseTable.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Table\EnhancedTable.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Tabs\BasicTabs.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Tabs\CustomizedTabs.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Tabs\FullWidthTabs.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Tabs\ScrollableTabsButtonAuto.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Tabs\ScrollableTabsButtonPrevent.tsx" />
