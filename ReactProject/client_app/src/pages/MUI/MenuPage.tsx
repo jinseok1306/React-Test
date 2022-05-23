@@ -7,6 +7,7 @@ import DenseMenu from '../../components/Menu/DenseMenu';
 import SimpleListMenu from '../../components/Menu/SimpleListMenu';
 import PositionedMenu from '../../components/Menu/PositionedMenu';
 import AccountMenu from '../../components/Menu/AccountMenu';
+import CustomizedMenus from '../../components/Menu/CustomizedMenus';
 
 const MenuPage = () => {
     return (
@@ -37,6 +38,10 @@ const MenuPage = () => {
                     <Grid item xs={3}>
                         <b>AccountMenu</b><div>&nbsp;</div>
                         <AccountMenu />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CustomizedMenus</b><div>&nbsp;</div>
+                        <CustomizedMenus />
                     </Grid>
                 </Grid>
             </div>
