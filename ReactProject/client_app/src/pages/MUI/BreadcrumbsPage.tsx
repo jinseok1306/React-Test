@@ -5,6 +5,7 @@ import BasicBreadcrumbs from '../../components/Breadcumbs/BasicBreadcrumbs';
 import CustomSeparator from '../../components/Breadcumbs/CustomSeparator';
 import IconBreadcrumbs from '../../components/Breadcumbs/IconBreadcrumbs';
 import CollapsedBreadcrumbs from '../../components/Breadcumbs/CollapsedBreadcrumbs';
+import CustomizedBreadcrumbs from '../../components/Breadcumbs/CustomizedBreadcrumbs';
 
 const BreadcrumbsPage = () => {
     return (
@@ -27,6 +28,10 @@ const BreadcrumbsPage = () => {
                     <Grid item xs={3}>
                         <b>CollapsedBreadcrumbs</b><div>&nbsp;</div>
                         <CollapsedBreadcrumbs />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CustomizedBreadcrumbs</b><div>&nbsp;</div>
+                        <CustomizedBreadcrumbs />
                     </Grid>
                 </Grid>
             </div>
