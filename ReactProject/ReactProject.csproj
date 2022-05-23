@@ -30,6 +30,7 @@
     <None Remove="client_app\src\components\Badge\SimpleBadge.tsx" />
     <None Remove="client_app\src\components\Breadcumbs\BasicBreadcrumbs.tsx" />
     <None Remove="client_app\src\components\Breadcumbs\CustomSeparator.tsx" />
+    <None Remove="client_app\src\components\Breadcumbs\IconBreadcrumbs.tsx" />
     <None Remove="client_app\src\components\ButtonNavigation\FixedBottomNavigation.tsx" />
     <None Remove="client_app\src\components\ButtonNavigation\LabelBottomNavigation.tsx" />
     <None Remove="client_app\src\components\ButtonNavigation\SimpleBottomNavigation.tsx" />
@@ -237,6 +238,7 @@
     <TypeScriptCompile Include="client_app\src\components\Badge\SimpleBadge.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Breadcumbs\BasicBreadcrumbs.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Breadcumbs\CustomSeparator.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Breadcumbs\IconBreadcrumbs.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ButtonNavigation\FixedBottomNavigation.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ButtonNavigation\LabelBottomNavigation.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ButtonNavigation\SimpleBottomNavigation.tsx" />
