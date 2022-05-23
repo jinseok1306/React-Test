@@ -74,6 +74,7 @@
     <None Remove="client_app\src\components\Divider\SubheaderDividers.tsx" />
     <None Remove="client_app\src\components\Divider\VerticalDividers.tsx" />
     <None Remove="client_app\src\components\Divider\VerticalDividerText.tsx" />
+    <None Remove="client_app\src\components\Drawer\TemporaryDrawer.tsx" />
     <None Remove="client_app\src\components\inputCart.tsx" />
     <None Remove="client_app\src\components\Autocomplete\CheckboxesTags.tsx" />
     <None Remove="client_app\src\components\Autocomplete\ContrySelect.tsx" />
@@ -175,6 +176,7 @@
     <None Remove="client_app\src\pages\MUI\ChipPage.tsx" />
     <None Remove="client_app\src\pages\MUI\DialogPage.tsx" />
     <None Remove="client_app\src\pages\MUI\DividerPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\DrawerPage.tsx" />
     <None Remove="client_app\src\pages\MUI\ListPage.tsx" />
     <None Remove="client_app\src\pages\MUI\PaperPage.tsx" />
     <None Remove="client_app\src\pages\MUI\PositionedSnackbar.tsx" />
@@ -285,6 +287,7 @@
     <TypeScriptCompile Include="client_app\src\components\Divider\SubheaderDividers.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Divider\VerticalDividers.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Divider\VerticalDividerText.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Drawer\TemporaryDrawer.tsx" />
     <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\ContrySelect.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\CustomizedHook.tsx" />
@@ -383,6 +386,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\ChipPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\DialogPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\DividerPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\DrawerPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ListPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\PaperPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ProgressPage.tsx" />
