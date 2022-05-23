@@ -6,6 +6,7 @@ import HorizontalNonLinearStepper from '../../components/Stepper/HorizontalNonLi
 import HorizontalLabelPositionBelowStepper from '../../components/Stepper/HorizontalLabelPositionBelowStepper';
 import HorizontalStepperWithError from '../../components/Stepper/HorizontalStepperWithError';
 import CustomizedSteppers from '../../components/Stepper/CustomizedSteppers';
+import VerticalLinearStepper from '../../components/Stepper/VerticalLinearStepper';
 
 const StepperPage = () => {
     return (
@@ -32,6 +33,10 @@ const StepperPage = () => {
                     <Grid item xs={4}>
                         <b>CustomizedSteppers</b><div>&nbsp;</div>
                         <CustomizedSteppers />
+                    </Grid>
+                    <Grid item xs={4}>
+                        <b>VerticalLinearStepper</b><div>&nbsp;</div>
+                        <VerticalLinearStepper />
                     </Grid>
                 </Grid>
             </div>
