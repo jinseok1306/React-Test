@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicCard from '../../components/Card/BasicCard';
 import OutlinedCard from '../../components/Card/OutlinedCard';
+import RecipeReviewCard from '../../components/Card/RecipeReviewCard';
 
 const CardPage = () => {
     return (
@@ -17,6 +18,10 @@ const CardPage = () => {
                     <Grid item xs={3}>
                         <b>OutlinedCard</b><div>&nbsp;</div>
                         <OutlinedCard />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>RecipeReviewCard</b><div>&nbsp;</div>
+                        <RecipeReviewCard />
                     </Grid>
                 </Grid>
             </div>
