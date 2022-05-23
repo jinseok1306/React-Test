@@ -106,6 +106,7 @@
     <None Remove="client_app\src\components\Snackbar\LongTextSnackbar.tsx" />
     <None Remove="client_app\src\components\Snackbar\PositionedSnackbar.tsx" />
     <None Remove="client_app\src\components\Snackbar\SimpleSnackbar.tsx" />
+    <None Remove="client_app\src\components\Snackbar\TransitionsSnackbar.tsx" />
     <None Remove="client_app\src\components\Switch\BasicSwitches.tsx" />
     <None Remove="client_app\src\components\Switch\CustomizedSwitches.tsx" />
     <None Remove="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
@@ -285,6 +286,7 @@
     <TypeScriptCompile Include="client_app\src\components\Snackbar\LongTextSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\PositionedSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\SimpleSnackbar.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Snackbar\TransitionsSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\BasicSwitches.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\CustomizedSwitches.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
