@@ -142,6 +142,7 @@
     <None Remove="client_app\src\pages\MUI\DialogPage.tsx" />
     <None Remove="client_app\src\pages\MUI\DividerPage.tsx" />
     <None Remove="client_app\src\pages\MUI\ListPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\PositionedSnackbar.tsx" />
     <None Remove="client_app\src\pages\MUI\ProgressPage.tsx" />
     <None Remove="client_app\src\pages\MUI\RadioPage.tsx" />
     <None Remove="client_app\src\pages\MUI\RatingPage.tsx" />
@@ -314,6 +315,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\DialogPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\DividerPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ListPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Snackbar\PositionedSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ProgressPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\RadioPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\RatingPage.tsx" />
