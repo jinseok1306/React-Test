@@ -81,6 +81,7 @@
     <None Remove="client_app\src\components\List\SwitchListSecondary.tsx" />
     <None Remove="client_app\src\components\Menu.tsx" />
     <None Remove="client_app\src\components\otherCart.tsx" />
+    <None Remove="client_app\src\components\Paper\Elevation.tsx" />
     <None Remove="client_app\src\components\Paper\SimplePaper.tsx" />
     <None Remove="client_app\src\components\Paper\Variants.tsx" />
     <None Remove="client_app\src\components\Progress\CircularDeterminate.tsx" />
@@ -280,6 +281,7 @@
     <TypeScriptCompile Include="client_app\src\components\List\SwitchListSecondary.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Paper\Elevation.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Paper\SimplePaper.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Paper\Variants.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Progress\CircularDeterminate.tsx" />
