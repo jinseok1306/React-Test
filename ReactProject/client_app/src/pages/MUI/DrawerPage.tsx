@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import TemporaryDrawer from '../../components/Drawer/TemporaryDrawer';
+import SwipeableEdgeDrawer from '../../components/Drawer/SwipeableEdgeDrawer';
 
 const DrawerPage = () => {
     return (
@@ -12,7 +13,11 @@ const DrawerPage = () => {
                     <Grid item xs={3}>
                         <b>TemporaryDrawer</b><div>&nbsp;</div>
                         <TemporaryDrawer />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>SwipeableEdgeDrawer</b><div>&nbsp;</div>
+                        <SwipeableEdgeDrawer />
+                    </Grid>
                 </Grid>
             </div>
         </div>

@@ -74,6 +74,7 @@
     <None Remove="client_app\src\components\Divider\SubheaderDividers.tsx" />
     <None Remove="client_app\src\components\Divider\VerticalDividers.tsx" />
     <None Remove="client_app\src\components\Divider\VerticalDividerText.tsx" />
+    <None Remove="client_app\src\components\Drawer\SwipeableEdgeDrawer.tsx" />
     <None Remove="client_app\src\components\Drawer\TemporaryDrawer.tsx" />
     <None Remove="client_app\src\components\inputCart.tsx" />
     <None Remove="client_app\src\components\Autocomplete\CheckboxesTags.tsx" />
@@ -287,6 +288,7 @@
     <TypeScriptCompile Include="client_app\src\components\Divider\SubheaderDividers.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Divider\VerticalDividers.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Divider\VerticalDividerText.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Drawer\SwipeableEdgeDrawer.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Drawer\TemporaryDrawer.tsx" />
     <TypeScriptCompile Include="client_app\src\components\inputCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Autocomplete\ContrySelect.tsx" />
