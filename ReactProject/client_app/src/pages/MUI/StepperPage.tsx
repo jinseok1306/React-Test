@@ -5,6 +5,7 @@ import HorizontalLinearStepper from '../../components/Stepper/HorizontalLinearSt
 import HorizontalNonLinearStepper from '../../components/Stepper/HorizontalNonLinearStepper';
 import HorizontalLabelPositionBelowStepper from '../../components/Stepper/HorizontalLabelPositionBelowStepper';
 import HorizontalStepperWithError from '../../components/Stepper/HorizontalStepperWithError';
+import CustomizedSteppers from '../../components/Stepper/CustomizedSteppers';
 
 const StepperPage = () => {
     return (
@@ -27,6 +28,10 @@ const StepperPage = () => {
                     <Grid item xs={4}>
                         <b>HorizontalStepperWithError</b><div>&nbsp;</div>
                         <HorizontalStepperWithError />
+                    </Grid>
+                    <Grid item xs={4}>
+                        <b>CustomizedSteppers</b><div>&nbsp;</div>
+                        <CustomizedSteppers />
                     </Grid>
                 </Grid>
             </div>

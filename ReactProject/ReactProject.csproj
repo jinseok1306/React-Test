@@ -141,6 +141,7 @@
     <None Remove="client_app\src\components\Snackbar\PositionedSnackbar.tsx" />
     <None Remove="client_app\src\components\Snackbar\SimpleSnackbar.tsx" />
     <None Remove="client_app\src\components\Snackbar\TransitionsSnackbar.tsx" />
+    <None Remove="client_app\src\components\Stepper\CustomizedSteppers.tsx" />
     <None Remove="client_app\src\components\Stepper\HorizontalLabelPositionBelowStepper.tsx" />
     <None Remove="client_app\src\components\Stepper\HorizontalLinearStepper.tsx" />
     <None Remove="client_app\src\components\Stepper\HorizontalNonLinearStepper.tsx" />
@@ -368,6 +369,7 @@
     <TypeScriptCompile Include="client_app\src\components\Snackbar\PositionedSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\SimpleSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\TransitionsSnackbar.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Stepper\CustomizedSteppers.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Stepper\HorizontalLabelPositionBelowStepper.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Stepper\HorizontalLinearStepper.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Stepper\HorizontalNonLinearStepper.tsx" />
