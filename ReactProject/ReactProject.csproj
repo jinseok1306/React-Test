@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="client_app\src\components\Accordion\ControlledAccordions.tsx" />
     <None Remove="client_app\src\components\Accordion\SimpleAccordion.tsx" />
     <None Remove="client_app\src\components\Alert\ActionAlerts.tsx" />
     <None Remove="client_app\src\components\Alert\BasicAlerts.tsx" />
@@ -190,6 +191,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="client_app\src\components\Accordion\ControlledAccordions.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Accordion\SimpleAccordion.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Alert\ActionAlerts.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Alert\BasicAlerts.tsx" />
