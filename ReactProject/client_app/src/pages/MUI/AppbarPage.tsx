@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import ButtonAppBar from '../../components/Appbar/ButtonAppBar';
 import MenuAppBar from '../../components/Appbar/MenuAppBar';
 import ResponsiveAppBar from '../../components/Appbar/ResponsiveAppBar';
+import SearchAppBar from '../../components/Appbar/SearchAppBar';
 
 const AppbarPage = () => {
     return (
@@ -22,6 +23,10 @@ const AppbarPage = () => {
                     <Grid item xs={3}>
                         <b>ResponsiveAppBar</b><div>&nbsp;</div>
                         <ResponsiveAppBar />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>SearchAppBar</b><div>&nbsp;</div>
+                        <SearchAppBar />
                     </Grid>
                 </Grid>
             </div>
