@@ -100,6 +100,7 @@
     <None Remove="client_app\src\components\Slider\RangeSlider.tsx" />
     <None Remove="client_app\src\components\Slider\TrackInvertedSlider.tsx" />
     <None Remove="client_app\src\components\Slider\VerticalSlider.tsx" />
+    <None Remove="client_app\src\components\Snackbar\CustomizedSnackbars.tsx" />
     <None Remove="client_app\src\components\Snackbar\SimpleSnackbar.tsx" />
     <None Remove="client_app\src\components\Switch\BasicSwitches.tsx" />
     <None Remove="client_app\src\components\Switch\CustomizedSwitches.tsx" />
@@ -273,6 +274,7 @@
     <TypeScriptCompile Include="client_app\src\components\Slider\RangeSlider.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Slider\TrackInvertedSlider.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Slider\VerticalSlider.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Snackbar\CustomizedSnackbars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\SimpleSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\BasicSwitches.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\CustomizedSwitches.tsx" />

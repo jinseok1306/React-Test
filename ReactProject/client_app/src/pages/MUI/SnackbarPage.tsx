@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import Variants from '../../components/Skeleton/Variants';
 import SimpleSnackbar from '../../components/Snackbar/SimpleSnackbar';
+import CustomizedSnackbars from '../../components/Snackbar/CustomizedSnackbars';
 
 const SnackbarPage = () => {
     return (
@@ -13,7 +14,11 @@ const SnackbarPage = () => {
                     <Grid item xs={3}>
                         <b>SimpleSnackbar</b><div>&nbsp;</div>
                         <SimpleSnackbar />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CustomizedSnackbars</b><div>&nbsp;</div>
+                        <CustomizedSnackbars />
+                    </Grid>
                 </Grid>
             </div>
         </div>
