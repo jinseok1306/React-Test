@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import ButtonAppBar from '../../components/Appbar/ButtonAppBar';
 import MenuAppBar from '../../components/Appbar/MenuAppBar';
+import ResponsiveAppBar from '../../components/Appbar/ResponsiveAppBar';
 
 const AppbarPage = () => {
     return (
@@ -17,6 +18,10 @@ const AppbarPage = () => {
                     <Grid item xs={3}>
                         <b>MenuAppBar</b><div>&nbsp;</div>
                         <MenuAppBar />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>ResponsiveAppBar</b><div>&nbsp;</div>
+                        <ResponsiveAppBar />
                     </Grid>
                 </Grid>
             </div>
