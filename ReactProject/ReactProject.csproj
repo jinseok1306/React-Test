@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="client_app\src\components\Accordion\SimpleAccordion.tsx" />
     <None Remove="client_app\src\components\Alert\ActionAlerts.tsx" />
     <None Remove="client_app\src\components\Alert\BasicAlerts.tsx" />
     <None Remove="client_app\src\components\Alert\DescriptionAlerts.tsx" />
@@ -137,6 +138,7 @@
     <None Remove="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
     <None Remove="client_app\src\pages\Home.tsx" />
     <None Remove="client_app\src\pages\index.tsx" />
+    <None Remove="client_app\src\pages\MUI\AccordionPage.tsx" />
     <None Remove="client_app\src\pages\MUI\AlertPage.tsx" />
     <None Remove="client_app\src\pages\MUI\AutocompletePage.tsx" />
     <None Remove="client_app\src\pages\MUI\AvatarPage.tsx" />
@@ -188,6 +190,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="client_app\src\components\Accordion\SimpleAccordion.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Alert\ActionAlerts.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Alert\BasicAlerts.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Alert\DescriptionAlerts.tsx" />
@@ -316,6 +319,7 @@
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleLineChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleRadarChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\AccordionPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\AlertPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\AvatarPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\BackdropPage.tsx" />

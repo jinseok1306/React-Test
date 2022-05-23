@@ -46,6 +46,7 @@ function App() {
                   <Route path="/MUI/ProgressPage" element={<Page.ProgressPage />} />
                   <Route path="/MUI/SkeletonPage" element={<Page.SkeletonPage />} />
                   <Route path="/MUI/SnackbarPage" element={<Page.SnackbarPage />} />
+                  <Route path="/MUI/AccordionPage" element={<Page.AccordionPage />} />
               </Routes>
           </Provider>
     </div>

@@ -34,3 +34,4 @@ export { default as DialogPage } from './MUI/DialogPage';
 export { default as ProgressPage } from './MUI/ProgressPage';
 export { default as SkeletonPage } from './MUI/SkeletonPage';
 export { default as SnackbarPage } from './MUI/SnackbarPage';
+export { default as AccordionPage } from './MUI/AccordionPage';
