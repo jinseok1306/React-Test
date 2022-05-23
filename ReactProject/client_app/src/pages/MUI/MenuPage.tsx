@@ -5,6 +5,7 @@ import BasicMenu from '../../components/Menu/BasicMenu';
 import IconMenu from '../../components/Menu/IconMenu';
 import DenseMenu from '../../components/Menu/DenseMenu';
 import SimpleListMenu from '../../components/Menu/SimpleListMenu';
+import PositionedMenu from '../../components/Menu/PositionedMenu';
 
 const MenuPage = () => {
     return (
@@ -27,6 +28,10 @@ const MenuPage = () => {
                     <Grid item xs={3}>
                         <b>SimpleListMenu</b><div>&nbsp;</div>
                         <SimpleListMenu />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>PositionedMenu</b><div>&nbsp;</div>
+                        <PositionedMenu />
                     </Grid>
                 </Grid>
             </div>
