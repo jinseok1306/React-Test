@@ -1,8 +1,8 @@
 ﻿import * as React from 'react';
 import Button from '@mui/material/Button';
 import Snackbar, { SnackbarOrigin } from '@mui/material/Snackbar';
- 
-export interface State extends SnackbarOrigin { 
+
+export interface State extends SnackbarOrigin {
     open: boolean;
 }
 
