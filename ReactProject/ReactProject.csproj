@@ -144,6 +144,7 @@
     <None Remove="client_app\src\components\Stepper\HorizontalLabelPositionBelowStepper.tsx" />
     <None Remove="client_app\src\components\Stepper\HorizontalLinearStepper.tsx" />
     <None Remove="client_app\src\components\Stepper\HorizontalNonLinearStepper.tsx" />
+    <None Remove="client_app\src\components\Stepper\HorizontalStepperWithError.tsx" />
     <None Remove="client_app\src\components\Switch\BasicSwitches.tsx" />
     <None Remove="client_app\src\components\Switch\CustomizedSwitches.tsx" />
     <None Remove="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
@@ -370,6 +371,7 @@
     <TypeScriptCompile Include="client_app\src\components\Stepper\HorizontalLabelPositionBelowStepper.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Stepper\HorizontalLinearStepper.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Stepper\HorizontalNonLinearStepper.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Stepper\HorizontalStepperWithError.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\BasicSwitches.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\CustomizedSwitches.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\FormControlLabelPosition.tsx" />

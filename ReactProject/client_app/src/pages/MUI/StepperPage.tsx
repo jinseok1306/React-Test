@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import HorizontalLinearStepper from '../../components/Stepper/HorizontalLinearStepper';
 import HorizontalNonLinearStepper from '../../components/Stepper/HorizontalNonLinearStepper';
 import HorizontalLabelPositionBelowStepper from '../../components/Stepper/HorizontalLabelPositionBelowStepper';
+import HorizontalStepperWithError from '../../components/Stepper/HorizontalStepperWithError';
 
 const StepperPage = () => {
     return (
@@ -22,6 +23,10 @@ const StepperPage = () => {
                     <Grid item xs={4}>
                         <b>HorizontalLabelPositionBelowStepper</b><div>&nbsp;</div>
                         <HorizontalLabelPositionBelowStepper />
+                    </Grid>
+                    <Grid item xs={4}>
+                        <b>HorizontalStepperWithError</b><div>&nbsp;</div>
+                        <HorizontalStepperWithError />
                     </Grid>
                 </Grid>
             </div>
