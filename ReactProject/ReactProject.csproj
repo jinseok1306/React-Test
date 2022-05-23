@@ -90,6 +90,7 @@
     <None Remove="client_app\src\components\List\SelectedListItem.tsx" />
     <None Remove="client_app\src\components\List\SwitchListSecondary.tsx" />
     <None Remove="client_app\src\components\Menu.tsx" />
+    <None Remove="client_app\src\components\Menu\BasicMenu.tsx" />
     <None Remove="client_app\src\components\otherCart.tsx" />
     <None Remove="client_app\src\components\Paper\Elevation.tsx" />
     <None Remove="client_app\src\components\Paper\SimplePaper.tsx" />
@@ -179,6 +180,7 @@
     <None Remove="client_app\src\pages\MUI\DividerPage.tsx" />
     <None Remove="client_app\src\pages\MUI\DrawerPage.tsx" />
     <None Remove="client_app\src\pages\MUI\ListPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\MenuPage.tsx" />
     <None Remove="client_app\src\pages\MUI\PaperPage.tsx" />
     <None Remove="client_app\src\pages\MUI\PositionedSnackbar.tsx" />
     <None Remove="client_app\src\pages\MUI\ProgressPage.tsx" />
@@ -303,6 +305,7 @@
     <TypeScriptCompile Include="client_app\src\components\List\SelectedListItem.tsx" />
     <TypeScriptCompile Include="client_app\src\components\List\SwitchListSecondary.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Menu\BasicMenu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Paper\Elevation.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Paper\SimplePaper.tsx" />
@@ -390,6 +393,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\DividerPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\DrawerPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ListPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\MenuPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\PaperPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ProgressPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\RadioPage.tsx" />
