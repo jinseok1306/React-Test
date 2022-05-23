@@ -6,6 +6,7 @@ import FullWidthTabs from '../../components/Tabs/FullWidthTabs';
 import ScrollableTabsButtonAuto from '../../components/Tabs/ScrollableTabsButtonAuto';
 import ScrollableTabsButtonPrevent from '../../components/Tabs/ScrollableTabsButtonPrevent';
 import CustomizedTabs from '../../components/Tabs/CustomizedTabs';
+import VerticalTabs from '../../components/Tabs/VerticalTabs';
 
 const TabsPage = () => {
     return (
@@ -32,6 +33,10 @@ const TabsPage = () => {
                     <Grid item xs={4}>
                         <b>CustomizedTabs</b><div>&nbsp;</div>
                         <CustomizedTabs />
+                    </Grid>
+                    <Grid item xs={4}>
+                        <b>VerticalTabs</b><div>&nbsp;</div>
+                        <VerticalTabs />
                     </Grid>
                 </Grid>
             </div>
