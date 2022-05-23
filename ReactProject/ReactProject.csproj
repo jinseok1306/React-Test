@@ -16,6 +16,7 @@
     <None Remove="client_app\src\components\Alert\IconAlerts.tsx" />
     <None Remove="client_app\src\components\Alert\TransitionAlerts.tsx" />
     <None Remove="client_app\src\components\Appbar\ButtonAppBar.tsx" />
+    <None Remove="client_app\src\components\Appbar\MenuAppBar.tsx" />
     <None Remove="client_app\src\components\Avatar\BadgeAvatars.tsx" />
     <None Remove="client_app\src\components\Avatar\GroupAvatars.tsx" />
     <None Remove="client_app\src\components\Avatar\IconAvatars.tsx" />
@@ -203,6 +204,7 @@
     <TypeScriptCompile Include="client_app\src\components\Alert\IconAlerts.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Alert\TransitionAlerts.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Appbar\ButtonAppBar.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Appbar\MenuAppBar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\BadgeAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\GroupAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\IconAvatars.tsx" />
