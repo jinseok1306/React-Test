@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import BasicMenu from '../../components/Menu/BasicMenu';
 import IconMenu from '../../components/Menu/IconMenu';
 import DenseMenu from '../../components/Menu/DenseMenu';
+import SimpleListMenu from '../../components/Menu/SimpleListMenu';
 
 const MenuPage = () => {
     return (
@@ -22,6 +23,10 @@ const MenuPage = () => {
                     <Grid item xs={3}>
                         <b>DenseMenu</b><div>&nbsp;</div>
                         <DenseMenu />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>SimpleListMenu</b><div>&nbsp;</div>
+                        <SimpleListMenu />
                     </Grid>
                 </Grid>
             </div>
