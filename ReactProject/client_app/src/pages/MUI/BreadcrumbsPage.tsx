@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicBreadcrumbs from '../../components/Breadcumbs/BasicBreadcrumbs';
+import CustomSeparator from '../../components/Breadcumbs/CustomSeparator';
 
 const BreadcrumbsPage = () => {
     return (
@@ -12,6 +13,10 @@ const BreadcrumbsPage = () => {
                     <Grid item xs={3}>
                         <b>BasicBreadcrumbs</b><div>&nbsp;</div>
                         <BasicBreadcrumbs />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>CustomSeparator</b><div>&nbsp;</div>
+                        <CustomSeparator />
                     </Grid>
                 </Grid>
             </div>
