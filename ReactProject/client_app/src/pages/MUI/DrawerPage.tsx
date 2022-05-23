@@ -17,7 +17,7 @@ const DrawerPage = () => {
                     <Grid item xs={3}>
                         <b>SwipeableEdgeDrawer</b><div>&nbsp;</div>
                         <SwipeableEdgeDrawer />
-                    </Grid>
+                    </Grid>                    
                 </Grid>
             </div>
         </div>
