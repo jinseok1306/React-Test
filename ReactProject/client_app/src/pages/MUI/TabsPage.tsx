@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicTabs from '../../components/Tabs/BasicTabs';
+import FullWidthTabs from '../../components/Tabs/FullWidthTabs';
 
 const TabsPage = () => {
     return (
@@ -12,7 +13,11 @@ const TabsPage = () => {
                     <Grid item xs={3}>
                         <b>BasicTabs</b><div>&nbsp;</div>
                         <BasicTabs />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>FullWidthTabs</b><div>&nbsp;</div>
+                        <FullWidthTabs />
+                    </Grid>
                 </Grid>
             </div>
         </div>
