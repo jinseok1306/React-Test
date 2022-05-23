@@ -28,7 +28,7 @@ const Menu = () => {
                                 <NavDropdown.Item><Link to="/Chart/PieChartWithCustomizedLabel" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>PieChartWithCustomizedLabel</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/Chart/SimpleRadarChart" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>SimpleRadarChart</Link></NavDropdown.Item>
                             </NavDropdown>
-                            <NavDropdown title="MUI" id="navbarScrollingDropdown">
+                            <NavDropdown title="MUI-INPUTS" id="navbarScrollingDropdown">
                                 <NavDropdown.Item><Link to="/MUI/AutocompletePage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>Autocomplete Page</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/ButtonPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>Button Page</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/CheckboxPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>Checkbox Page</Link></NavDropdown.Item>
@@ -40,6 +40,8 @@ const Menu = () => {
                                 <NavDropdown.Item><Link to="/MUI/TextFieldPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>TextFieldPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/TransferListPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>TransferListPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/ToggleButtonPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>ToggleButtonPage</Link></NavDropdown.Item>
+                            </NavDropdown>
+                            <NavDropdown title="MUI-DATA DISPLAY" id="navbarScrollingDropdown">
                                 <NavDropdown.Item><Link to="/MUI/AvatarPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>AvatarPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/BadgePage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>BadgePage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/ChipPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>ChipPage</Link></NavDropdown.Item>
@@ -47,13 +49,18 @@ const Menu = () => {
                                 <NavDropdown.Item><Link to="/MUI/ListPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>ListPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/TablePage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>TablePage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/TooltipPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>TooltipPage</Link></NavDropdown.Item>
+                            </NavDropdown>
+                            <NavDropdown title="MUI-FEEDBACK" id="navbarScrollingDropdown">
                                 <NavDropdown.Item><Link to="/MUI/AlertPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>AlertPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/BackdropPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>BackdropPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/DialogPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>DialogPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/ProgressPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>ProgressPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/SkeletonPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>SkeletonPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/SnackbarPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>SnackbarPage</Link></NavDropdown.Item>
+                            </NavDropdown>
+                            <NavDropdown title="MUI-SURFACES" id="navbarScrollingDropdown">                                                                                                
                                 <NavDropdown.Item><Link to="/MUI/AccordionPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>AccordionPage</Link></NavDropdown.Item>
+                                <NavDropdown.Item><Link to="/MUI/AppbarPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>AppbarPage</Link></NavDropdown.Item>
                             </NavDropdown>
                         </Nav>
                     </Navbar.Collapse>

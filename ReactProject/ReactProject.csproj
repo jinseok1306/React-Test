@@ -15,6 +15,7 @@
     <None Remove="client_app\src\components\Alert\DescriptionAlerts.tsx" />
     <None Remove="client_app\src\components\Alert\IconAlerts.tsx" />
     <None Remove="client_app\src\components\Alert\TransitionAlerts.tsx" />
+    <None Remove="client_app\src\components\Appbar\ButtonAppBar.tsx" />
     <None Remove="client_app\src\components\Avatar\BadgeAvatars.tsx" />
     <None Remove="client_app\src\components\Avatar\GroupAvatars.tsx" />
     <None Remove="client_app\src\components\Avatar\IconAvatars.tsx" />
@@ -142,6 +143,7 @@
     <None Remove="client_app\src\pages\index.tsx" />
     <None Remove="client_app\src\pages\MUI\AccordionPage.tsx" />
     <None Remove="client_app\src\pages\MUI\AlertPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\AppbarPage.tsx" />
     <None Remove="client_app\src\pages\MUI\AutocompletePage.tsx" />
     <None Remove="client_app\src\pages\MUI\AvatarPage.tsx" />
     <None Remove="client_app\src\pages\MUI\BackdropPage.tsx" />
@@ -200,6 +202,7 @@
     <TypeScriptCompile Include="client_app\src\components\Alert\DescriptionAlerts.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Alert\IconAlerts.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Alert\TransitionAlerts.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Appbar\ButtonAppBar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\BadgeAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\GroupAvatars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Avatar\IconAvatars.tsx" />
@@ -325,6 +328,7 @@
     <TypeScriptCompile Include="client_app\src\pages\Chart\SimpleScatterChart.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\AccordionPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\AlertPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\AppbarPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\AvatarPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\BackdropPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\BadgePage.tsx" />
