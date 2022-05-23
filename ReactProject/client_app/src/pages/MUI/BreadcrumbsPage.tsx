@@ -32,7 +32,7 @@ const BreadcrumbsPage = () => {
                     <Grid item xs={3}>
                         <b>CustomizedBreadcrumbs</b><div>&nbsp;</div>
                         <CustomizedBreadcrumbs />
-                    </Grid>
+                    </Grid>                    
                 </Grid>
             </div>
         </div>
