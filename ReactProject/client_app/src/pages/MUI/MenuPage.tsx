@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import BasicMenu from '../../components/Menu/BasicMenu';
+import IconMenu from '../../components/Menu/IconMenu';
 
 const MenuPage = () => {
     return (
@@ -12,7 +13,11 @@ const MenuPage = () => {
                     <Grid item xs={3}>
                         <b>BasicMenu</b><div>&nbsp;</div>
                         <BasicMenu />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>IconMenu</b><div>&nbsp;</div>
+                        <IconMenu />
+                    </Grid>
                 </Grid>
             </div>
         </div>
