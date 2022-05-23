@@ -45,7 +45,8 @@ function App() {
                   <Route path="/MUI/DialogPage" element={<Page.DialogPage />} />
                   <Route path="/MUI/ProgressPage" element={<Page.ProgressPage />} />
                   <Route path="/MUI/SkeletonPage" element={<Page.SkeletonPage />} />
-                  </Routes>
+                  <Route path="/MUI/SnackbarPage" element={<Page.SnackbarPage />} />
+              </Routes>
           </Provider>
     </div>
   );
