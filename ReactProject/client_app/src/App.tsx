@@ -48,6 +48,7 @@ function App() {
                   <Route path="/MUI/SnackbarPage" element={<Page.SnackbarPage />} />
                   <Route path="/MUI/AccordionPage" element={<Page.AccordionPage />} />
                   <Route path="/MUI/AppbarPage" element={<Page.AppbarPage />} />
+                  <Route path="/MUI/CardPage" element={<Page.CardPage />} />
               </Routes>
           </Provider>
     </div>

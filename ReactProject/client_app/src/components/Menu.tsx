@@ -61,6 +61,7 @@ const Menu = () => {
                             <NavDropdown title="MUI-SURFACES" id="navbarScrollingDropdown">                                                                                                
                                 <NavDropdown.Item><Link to="/MUI/AccordionPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>AccordionPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/AppbarPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>AppbarPage</Link></NavDropdown.Item>
+                                <NavDropdown.Item><Link to="/MUI/CardPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>CardPage</Link></NavDropdown.Item>
                             </NavDropdown>
                         </Nav>
                     </Navbar.Collapse>
