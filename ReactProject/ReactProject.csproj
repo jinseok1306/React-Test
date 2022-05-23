@@ -28,6 +28,7 @@
     <None Remove="client_app\src\components\Backdrop\SimpleBackdrop.tsx" />
     <None Remove="client_app\src\components\Badge\BadgeVisibility.tsx" />
     <None Remove="client_app\src\components\Badge\SimpleBadge.tsx" />
+    <None Remove="client_app\src\components\Breadcumbs\BasicBreadcrumbs.tsx" />
     <None Remove="client_app\src\components\ButtonNavigation\FixedBottomNavigation.tsx" />
     <None Remove="client_app\src\components\ButtonNavigation\LabelBottomNavigation.tsx" />
     <None Remove="client_app\src\components\ButtonNavigation\SimpleBottomNavigation.tsx" />
@@ -162,6 +163,7 @@
     <None Remove="client_app\src\pages\MUI\AvatarPage.tsx" />
     <None Remove="client_app\src\pages\MUI\BackdropPage.tsx" />
     <None Remove="client_app\src\pages\MUI\BadgePage.tsx" />
+    <None Remove="client_app\src\pages\MUI\BreadcrumbsPage.tsx" />
     <None Remove="client_app\src\pages\MUI\ButtonNavigationPage.tsx" />
     <None Remove="client_app\src\pages\MUI\ButtonPage.tsx" />
     <None Remove="client_app\src\pages\MUI\CardPage.tsx" />
@@ -232,6 +234,7 @@
     <TypeScriptCompile Include="client_app\src\components\Backdrop\SimpleBackdrop.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Badge\BadgeVisibility.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Badge\SimpleBadge.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Breadcumbs\BasicBreadcrumbs.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ButtonNavigation\FixedBottomNavigation.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ButtonNavigation\LabelBottomNavigation.tsx" />
     <TypeScriptCompile Include="client_app\src\components\ButtonNavigation\SimpleBottomNavigation.tsx" />
@@ -363,6 +366,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\AvatarPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\BackdropPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\BadgePage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\BreadcrumbsPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ButtonNavigationPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ButtonPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\CardPage.tsx" />
