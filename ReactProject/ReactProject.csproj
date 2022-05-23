@@ -91,6 +91,7 @@
     <None Remove="client_app\src\components\List\SwitchListSecondary.tsx" />
     <None Remove="client_app\src\components\Menu.tsx" />
     <None Remove="client_app\src\components\Menu\BasicMenu.tsx" />
+    <None Remove="client_app\src\components\Menu\DenseMenu.tsx" />
     <None Remove="client_app\src\components\Menu\IconMenu.tsx" />
     <None Remove="client_app\src\components\otherCart.tsx" />
     <None Remove="client_app\src\components\Paper\Elevation.tsx" />
@@ -307,6 +308,7 @@
     <TypeScriptCompile Include="client_app\src\components\List\SwitchListSecondary.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu\BasicMenu.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Menu\DenseMenu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Menu\IconMenu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Paper\Elevation.tsx" />
