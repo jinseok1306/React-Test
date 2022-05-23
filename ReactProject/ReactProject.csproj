@@ -155,6 +155,7 @@
     <None Remove="client_app\src\components\Table\DataTable.tsx" />
     <None Remove="client_app\src\components\Table\DenseTable.tsx" />
     <None Remove="client_app\src\components\Table\EnhancedTable.tsx" />
+    <None Remove="client_app\src\components\Tabs\BasicTabs.tsx" />
     <None Remove="client_app\src\components\TextField\BasicTextFields.tsx" />
     <None Remove="client_app\src\components\TextField\ComposedTextField.tsx" />
     <None Remove="client_app\src\components\TextField\InputWithIcon.tsx" />
@@ -206,6 +207,7 @@
     <None Remove="client_app\src\pages\MUI\StepperPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SwitchPage.tsx" />
     <None Remove="client_app\src\pages\MUI\TablePage.tsx" />
+    <None Remove="client_app\src\pages\MUI\TabsPage.tsx" />
     <None Remove="client_app\src\pages\MUI\TextFieldPage.tsx" />
     <None Remove="client_app\src\pages\MUI\ToggleButtonPage.tsx" />
     <None Remove="client_app\src\pages\MUI\TooltipPage.tsx" />
@@ -384,6 +386,7 @@
     <TypeScriptCompile Include="client_app\src\components\Table\DataTable.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Table\DenseTable.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Table\EnhancedTable.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Tabs\BasicTabs.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\BasicTextFields.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\ComposedTextField.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\InputWithIcon.tsx" />
@@ -432,6 +435,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\StepperPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SwitchPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\TablePage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\TabsPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\TextFieldPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\ToggleButtonPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\TooltipPage.tsx" />

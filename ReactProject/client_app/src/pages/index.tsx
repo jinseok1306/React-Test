@@ -43,3 +43,4 @@ export { default as BreadcrumbsPage } from './MUI/BreadcrumbsPage';
 export { default as DrawerPage } from './MUI/DrawerPage';
 export { default as MenuPage } from './MUI/MenuPage';
 export { default as StepperPage } from './MUI/StepperPage';
+export { default as TabsPage } from './MUI/TabsPage';

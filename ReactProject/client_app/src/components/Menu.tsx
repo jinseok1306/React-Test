@@ -70,6 +70,7 @@ const Menu = () => {
                                 <NavDropdown.Item><Link to="/MUI/DrawerPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>DrawerPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/MenuPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>MenuPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/StepperPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>StepperPage</Link></NavDropdown.Item>
+                                <NavDropdown.Item><Link to="/MUI/TabsPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>TabsPage</Link></NavDropdown.Item>
                             </NavDropdown>
                         </Nav>
                     </Navbar.Collapse>
