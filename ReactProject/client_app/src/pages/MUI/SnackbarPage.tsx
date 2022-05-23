@@ -8,6 +8,7 @@ import LongTextSnackbar from '../../components/Snackbar/LongTextSnackbar';
 import ConsecutiveSnackbars from '../../components/Snackbar/ConsecutiveSnackbars';
 import FabIntegrationSnackbar from '../../components/Snackbar/FabIntegrationSnackbar';
 import TransitionsSnackbar from '../../components/Snackbar/TransitionsSnackbar';
+import DirectionSnackbar from '../../components/Snackbar/DirectionSnackbar';
 
 const SnackbarPage = () => {
     return (
@@ -42,6 +43,10 @@ const SnackbarPage = () => {
                     <Grid item xs={3}>
                         <b>TransitionsSnackbar</b><div>&nbsp;</div>
                         <TransitionsSnackbar />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>DirectionSnackbar</b><div>&nbsp;</div>
+                        <DirectionSnackbar />
                     </Grid>
                 </Grid>
             </div>

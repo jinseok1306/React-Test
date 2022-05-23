@@ -102,6 +102,7 @@
     <None Remove="client_app\src\components\Slider\VerticalSlider.tsx" />
     <None Remove="client_app\src\components\Snackbar\ConsecutiveSnackbars.tsx" />
     <None Remove="client_app\src\components\Snackbar\CustomizedSnackbars.tsx" />
+    <None Remove="client_app\src\components\Snackbar\DirectionSnackbar.tsx" />
     <None Remove="client_app\src\components\Snackbar\FabIntegrationSnackbar.tsx" />
     <None Remove="client_app\src\components\Snackbar\LongTextSnackbar.tsx" />
     <None Remove="client_app\src\components\Snackbar\PositionedSnackbar.tsx" />
@@ -282,6 +283,7 @@
     <TypeScriptCompile Include="client_app\src\components\Slider\VerticalSlider.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\ConsecutiveSnackbars.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\CustomizedSnackbars.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Snackbar\DirectionSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\FabIntegrationSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\LongTextSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\PositionedSnackbar.tsx" />
