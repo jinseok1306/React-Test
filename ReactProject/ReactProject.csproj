@@ -141,6 +141,7 @@
     <None Remove="client_app\src\components\Snackbar\PositionedSnackbar.tsx" />
     <None Remove="client_app\src\components\Snackbar\SimpleSnackbar.tsx" />
     <None Remove="client_app\src\components\Snackbar\TransitionsSnackbar.tsx" />
+    <None Remove="client_app\src\components\Stepper\HorizontalLinearStepper.tsx" />
     <None Remove="client_app\src\components\Switch\BasicSwitches.tsx" />
     <None Remove="client_app\src\components\Switch\CustomizedSwitches.tsx" />
     <None Remove="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
@@ -197,6 +198,7 @@
     <None Remove="client_app\src\pages\MUI\SkeletonPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SliderPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SnackbarPage.tsx" />
+    <None Remove="client_app\src\pages\MUI\StepperPage.tsx" />
     <None Remove="client_app\src\pages\MUI\SwitchPage.tsx" />
     <None Remove="client_app\src\pages\MUI\TablePage.tsx" />
     <None Remove="client_app\src\pages\MUI\TextFieldPage.tsx" />
@@ -363,6 +365,7 @@
     <TypeScriptCompile Include="client_app\src\components\Snackbar\PositionedSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\SimpleSnackbar.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Snackbar\TransitionsSnackbar.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Stepper\HorizontalLinearStepper.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\BasicSwitches.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\CustomizedSwitches.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Switch\FormControlLabelPosition.tsx" />
@@ -416,6 +419,7 @@
     <TypeScriptCompile Include="client_app\src\pages\MUI\SkeletonPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SliderPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SnackbarPage.tsx" />
+    <TypeScriptCompile Include="client_app\src\pages\MUI\StepperPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\SwitchPage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\TablePage.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\MUI\TextFieldPage.tsx" />

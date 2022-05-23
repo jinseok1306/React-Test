@@ -54,6 +54,7 @@ function App() {
                   <Route path="/MUI/BreadcrumbsPage" element={<Page.BreadcrumbsPage />} />
                   <Route path="/MUI/DrawerPage" element={<Page.DrawerPage />} />
                   <Route path="/MUI/MenuPage" element={<Page.MenuPage />} />
+                  <Route path="/MUI/StepperPage" element={<Page.StepperPage />} />
               </Routes>
           </Provider>
     </div>
