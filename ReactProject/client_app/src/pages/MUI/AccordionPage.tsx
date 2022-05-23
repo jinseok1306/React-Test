@@ -3,6 +3,7 @@ import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import SimpleAccordion from '../../components/Accordion/SimpleAccordion';
 import ControlledAccordions from '../../components/Accordion/ControlledAccordions';
+import CustomizedAccordions from '../../components/Accordion/CustomizedAccordions';
 
 const AccordionPage = () => {
     return (
@@ -17,6 +18,10 @@ const AccordionPage = () => {
                     <Grid item xs={4}>
                         <b>ControlledAccordions</b><div>&nbsp;</div>
                         <ControlledAccordions />
+                    </Grid>
+                    <Grid item xs={4}>
+                        <b>CustomizedAccordions</b><div>&nbsp;</div>
+                        <CustomizedAccordions />
                     </Grid>
                 </Grid>
             </div>
