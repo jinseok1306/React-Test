@@ -1,8 +1,8 @@
 ﻿import React, { useCallback, useState } from "react";
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
-import ButtonAppBar from '../../components/Appbar/ButtonAppBar';
 import BasicCard from '../../components/Card/BasicCard';
+import OutlinedCard from '../../components/Card/OutlinedCard';
 
 const CardPage = () => {
     return (
@@ -13,7 +13,11 @@ const CardPage = () => {
                     <Grid item xs={3}>
                         <b>BasicCard</b><div>&nbsp;</div>
                         <BasicCard />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>OutlinedCard</b><div>&nbsp;</div>
+                        <OutlinedCard />
+                    </Grid>
                 </Grid>
             </div>
         </div>
