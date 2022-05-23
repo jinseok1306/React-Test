@@ -64,6 +64,9 @@ const Menu = () => {
                                 <NavDropdown.Item><Link to="/MUI/CardPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>CardPage</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/MUI/PaperPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>PaperPage</Link></NavDropdown.Item>
                             </NavDropdown>
+                            <NavDropdown title="MUI-NAVIGATION" id="navbarScrollingDropdown">
+                                <NavDropdown.Item><Link to="/MUI/ButtonNavigationPage" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>ButtonNavigationPage</Link></NavDropdown.Item>
+                            </NavDropdown>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

@@ -50,6 +50,7 @@ function App() {
                   <Route path="/MUI/AppbarPage" element={<Page.AppbarPage />} />
                   <Route path="/MUI/CardPage" element={<Page.CardPage />} />
                   <Route path="/MUI/PaperPage" element={<Page.PaperPage />} />
+                  <Route path="/MUI/ButtonNavigationPage" element={<Page.ButtonNavigationPage />} />
               </Routes>
           </Provider>
     </div>

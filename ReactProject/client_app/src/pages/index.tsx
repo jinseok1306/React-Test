@@ -38,3 +38,4 @@ export { default as AccordionPage } from './MUI/AccordionPage';
 export { default as AppbarPage } from './MUI/AppbarPage';
 export { default as CardPage } from './MUI/CardPage';
 export { default as PaperPage } from './MUI/PaperPage';
+export { default as ButtonNavigationPage } from './MUI/ButtonNavigationPage';
