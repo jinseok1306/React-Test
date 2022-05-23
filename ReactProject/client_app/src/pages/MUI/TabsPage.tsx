@@ -4,6 +4,7 @@ import Grid from '@mui/material/Grid';
 import BasicTabs from '../../components/Tabs/BasicTabs';
 import FullWidthTabs from '../../components/Tabs/FullWidthTabs';
 import ScrollableTabsButtonAuto from '../../components/Tabs/ScrollableTabsButtonAuto';
+import ScrollableTabsButtonPrevent from '../../components/Tabs/ScrollableTabsButtonPrevent';
 
 const TabsPage = () => {
     return (
@@ -22,6 +23,10 @@ const TabsPage = () => {
                     <Grid item xs={4}>
                         <b>ScrollableTabsButtonAuto</b><div>&nbsp;</div>
                         <ScrollableTabsButtonAuto />
+                    </Grid>
+                    <Grid item xs={4}>
+                        <b>ScrollableTabsButtonPrevent</b><div>&nbsp;</div>
+                        <ScrollableTabsButtonPrevent />
                     </Grid>
                 </Grid>
             </div>

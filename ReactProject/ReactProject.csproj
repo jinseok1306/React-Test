@@ -158,6 +158,7 @@
     <None Remove="client_app\src\components\Tabs\BasicTabs.tsx" />
     <None Remove="client_app\src\components\Tabs\FullWidthTabs.tsx" />
     <None Remove="client_app\src\components\Tabs\ScrollableTabsButtonAuto.tsx" />
+    <None Remove="client_app\src\components\Tabs\ScrollableTabsButtonPrevent.tsx" />
     <None Remove="client_app\src\components\TextField\BasicTextFields.tsx" />
     <None Remove="client_app\src\components\TextField\ComposedTextField.tsx" />
     <None Remove="client_app\src\components\TextField\InputWithIcon.tsx" />
@@ -391,6 +392,7 @@
     <TypeScriptCompile Include="client_app\src\components\Tabs\BasicTabs.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Tabs\FullWidthTabs.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Tabs\ScrollableTabsButtonAuto.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Tabs\ScrollableTabsButtonPrevent.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\BasicTextFields.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\ComposedTextField.tsx" />
     <TypeScriptCompile Include="client_app\src\components\TextField\InputWithIcon.tsx" />
