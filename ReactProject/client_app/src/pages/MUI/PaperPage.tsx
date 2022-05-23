@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import SimplePaper from '../../components/Paper/SimplePaper';
+import Variants from '../../components/Paper/Variants';
 
 const PaperPage = () => {
     return (
@@ -12,7 +13,11 @@ const PaperPage = () => {
                     <Grid item xs={3}>
                         <b>SimplePaper</b><div>&nbsp;</div>
                         <SimplePaper />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>Variants</b><div>&nbsp;</div>
+                        <Variants />
+                    </Grid>
                 </Grid>
             </div>
         </div>

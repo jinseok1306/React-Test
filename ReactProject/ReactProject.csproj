@@ -82,6 +82,7 @@
     <None Remove="client_app\src\components\Menu.tsx" />
     <None Remove="client_app\src\components\otherCart.tsx" />
     <None Remove="client_app\src\components\Paper\SimplePaper.tsx" />
+    <None Remove="client_app\src\components\Paper\Variants.tsx" />
     <None Remove="client_app\src\components\Progress\CircularDeterminate.tsx" />
     <None Remove="client_app\src\components\Progress\CircularIndeterminate.tsx" />
     <None Remove="client_app\src\components\Progress\CircularIntegration.tsx" />
@@ -280,6 +281,7 @@
     <TypeScriptCompile Include="client_app\src\components\Menu.tsx" />
     <TypeScriptCompile Include="client_app\src\components\otherCart.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Paper\SimplePaper.tsx" />
+    <TypeScriptCompile Include="client_app\src\components\Paper\Variants.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Progress\CircularDeterminate.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Progress\CircularIndeterminate.tsx" />
     <TypeScriptCompile Include="client_app\src\components\Progress\CircularIntegration.tsx" />
