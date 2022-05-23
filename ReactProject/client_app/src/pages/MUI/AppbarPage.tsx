@@ -5,6 +5,7 @@ import ButtonAppBar from '../../components/Appbar/ButtonAppBar';
 import MenuAppBar from '../../components/Appbar/MenuAppBar';
 import ResponsiveAppBar from '../../components/Appbar/ResponsiveAppBar';
 import SearchAppBar from '../../components/Appbar/SearchAppBar';
+import PrimarySearchAppBar from '../../components/Appbar/PrimarySearchAppBar';
 
 const AppbarPage = () => {
     return (
@@ -27,6 +28,10 @@ const AppbarPage = () => {
                     <Grid item xs={3}>
                         <b>SearchAppBar</b><div>&nbsp;</div>
                         <SearchAppBar />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>PrimarySearchAppBar</b><div>&nbsp;</div>
+                        <PrimarySearchAppBar />
                     </Grid>
                 </Grid>
             </div>
