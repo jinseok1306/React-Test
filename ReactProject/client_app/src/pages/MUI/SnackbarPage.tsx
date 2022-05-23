@@ -1,10 +1,10 @@
 ﻿import React, { useCallback, useState } from "react";
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
-import Variants from '../../components/Skeleton/Variants';
 import SimpleSnackbar from '../../components/Snackbar/SimpleSnackbar';
 import CustomizedSnackbars from '../../components/Snackbar/CustomizedSnackbars';
 import PositionedSnackbar from '../../components/Snackbar/PositionedSnackbar';
+import LongTextSnackbar from '../../components/Snackbar/LongTextSnackbar';
 
 const SnackbarPage = () => {
     return (
@@ -23,6 +23,10 @@ const SnackbarPage = () => {
                     <Grid item xs={3}>
                         <b>PositionedSnackbar</b><div>&nbsp;</div>
                         <PositionedSnackbar />
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>LongTextSnackbar</b><div>&nbsp;</div>
+                        <LongTextSnackbar />
                     </Grid>
                 </Grid>
             </div>
