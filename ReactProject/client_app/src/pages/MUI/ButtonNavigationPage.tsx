@@ -2,6 +2,7 @@
 import Menu from '../../components/Menu';
 import Grid from '@mui/material/Grid';
 import SimpleBottomNavigation from '../../components/ButtonNavigation/SimpleBottomNavigation';
+import LabelBottomNavigation from '../../components/ButtonNavigation/LabelBottomNavigation';
 
 const ButtonNavigationPage = () => {
     return (
@@ -12,7 +13,11 @@ const ButtonNavigationPage = () => {
                     <Grid item xs={3}>
                         <b>SimpleBottomNavigation</b><div>&nbsp;</div>
                         <SimpleBottomNavigation />
-                    </Grid>                    
+                    </Grid>
+                    <Grid item xs={3}>
+                        <b>LabelBottomNavigation</b><div>&nbsp;</div>
+                        <LabelBottomNavigation />
+                    </Grid>
                 </Grid>
             </div>
         </div>
