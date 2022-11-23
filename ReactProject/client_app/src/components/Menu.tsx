@@ -16,9 +16,6 @@ const Menu = () => {
                         >
                             <Nav.Link ><Link to="/" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>Home</Link></Nav.Link>
                             <Nav.Link ><Link to="/ReduxTest" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>ReduxTest</Link></Nav.Link>
-                            <NavDropdown title="Team Work" id="navbarScrollingDropdown">
-                                <NavDropdown.Item><Link to="/TeamWork/List" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>TeamWork List</Link></NavDropdown.Item>
-                            </NavDropdown>
                             <NavDropdown title="Chart" id="navbarScrollingDropdown">
                                 <NavDropdown.Item><Link to="/Chart/SimpleLineChart" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>SimpleLineChart</Link></NavDropdown.Item>
                                 <NavDropdown.Item><Link to="/Chart/SimpleAreaChart" style={{ color: 'rgba(0, 0, 0, 0.55)', textDecoration: 'none' }}>SimpleAreaChart</Link></NavDropdown.Item>

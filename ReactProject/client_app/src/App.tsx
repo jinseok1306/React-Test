@@ -13,8 +13,6 @@ function App() {
               <Routes>
                   <Route path="/" element={<Page.Home />} />
                   <Route path="/ReduxTest" element={<Page.ReduxTest />} />
-                  <Route path="/TeamWork/List" element={<Page.TeamWorkList />} />
-                  <Route path="/TeamWork/Detail/:id" element={<Page.TeamWorkDetail />} />
                   <Route path="/Chart/SimpleLineChart" element={<Page.SimpleLineChart />} />
                   <Route path="/Chart/SimpleAreaChart" element={<Page.SimpleAreaChart />} />
                   <Route path="/Chart/SimpleBarChart" element={<Page.SimpleBarChart />} />

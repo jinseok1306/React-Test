@@ -453,8 +453,6 @@
     <TypeScriptCompile Include="client_app\src\pages\ReduxTest.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\Home.tsx" />
     <TypeScriptCompile Include="client_app\src\pages\index.tsx" />
-    <TypeScriptCompile Include="client_app\src\pages\TeamWork\TeamWorkDetail.tsx" />
-    <TypeScriptCompile Include="client_app\src\pages\TeamWork\TeamWorkList.tsx" />
     <TypeScriptCompile Include="client_app\src\redux\cart\actions.tsx" />
     <TypeScriptCompile Include="client_app\src\redux\cart\reducer.tsx" />
     <TypeScriptCompile Include="client_app\src\redux\cart\types.tsx" />
