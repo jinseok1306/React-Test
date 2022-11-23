@@ -128,4 +128,14 @@ npm i cross-env
 
 ```powershell
 "build": "cross-env BUILD_PATH='../wwwroot' react-scripts build",
-```
+```   
+
+### 8. 디버깅
+
+디버깅 후 React 화면이 나오는지, 그리고 Hot Reload가 정상적으로 작동하는지 체크한다.  
+
+▶ **참고사항**  
+
+1) React 라이브러리는 React  프로젝트 파일 경로에서 진행해야 된다!  
+
+2) 간혹 App.tsx 수정 후 디버깅 시 화면이 안나올 수 있는데 이때는 프로그램 종료 후 다시 실행하면 된다.
