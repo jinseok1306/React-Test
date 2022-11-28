@@ -138,4 +138,24 @@ npm i cross-env
 
 1) React 라이브러리는 React  프로젝트 파일 경로에서 진행해야 된다!  
 
-2) 간혹 App.tsx 수정 후 디버깅 시 화면이 안나올 수 있는데 이때는 프로그램 종료 후 다시 실행하면 된다.
+2) 간혹 App.tsx 수정 후 디버깅 시 화면이 안나올 수 있는데 이때는 프로그램 종료 후 다시 실행하면 된다.  
+
+### 9. 실행화면  
+
+<img src="/scan/Redux 테스트.png"  width="1000" >   
+
+<img src="/scan/Chart 테스트.png"  width="1000" >  
+
+<img src="/scan/Data Display 테스트.png"  width="1000" >  
+
+<img src="/scan/Feedback 테스트.png"  width="1000" >  
+
+<img src="/scan/MUI Input 테스트.png"  width="1000" >  
+
+<img src="/scan/Surfaces 테스트.png"  width="1000" >  
+
+<img src="/scan/Navigation 테스트.png"  width="1000" >  
+
+
+▶ 출처  
+https://www.youtube.com/watch?v=T-q4cmSEX-E
